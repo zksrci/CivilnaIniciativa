@@ -1,16 +1,19 @@
 
-### Zaskrbljeni krajani Smolnika in Rus
-### Ad Hoc Civilna INiciativa 
+Zaskrbljeni krajani Smolnika in Rus
+<br/>
+Ad Hoc Civilna Iniciativa 
 
 
 
 # Proti premiku obvoznice v zahodnem delu Ruš
+<br/>
+	
+### Izjava za javnost (2) - 18. februar 2022
+[Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice](IzjavaZaJavnost-2022-02-18.md)
+<br/>
+<br/>
+	
+### Izjava za javnost (1) - 16. februar 2022
+[Premik poteka trase zahodnega dela obvoznice Ruše](IzjavaZaJavnost-2022-02-16.md)
 
-## Komuniciranje z javnostmi
 
-### Izjava za javnost - Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice
-[16. februar 2022](IzjavaZaJavnost-2022-02-16.md)
-
-
-### Izjava za javnost - Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice
-[18. februar 2022](IzjavaZaJavnost-2022-02-18.md)
