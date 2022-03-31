@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/zksrci/CivilnaIniciativa/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Izjava za javnost - Premik poteka trase zahodnega dela obvoznice Ruše
+[16. februar 2022](doc/2022-02-16-IzjavaZaJavnost.md)
+
+### Izjava za javnost - Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice
+[18. februar 2022](doc/2022-02-18-IzjavaZaJavnost.md)
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
