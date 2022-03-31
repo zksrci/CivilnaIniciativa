@@ -15,3 +15,5 @@
 ### Izjava za javnost - Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice
 [18. februar 2022](doc/2022-02-18-IzjavaZaJavnost.md)
 
+### Izjava za javnost - Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice
+[18. februar 2022](IzjavaZaJavnost.md)
