@@ -12,7 +12,7 @@ Ad hoc civilna iniciativa Zaskrbljeni krajani Smolnika in Ruš vas poziva, da v 
 s 21. členom Poslovnika Občine Ruše zahtevate sklic izredne seje Občinskega sveta 
 Občine Ruše.
 
-<h2 align="center"> Razlog </h2>
+<h3 align="center"> Razlog </h3>
 
 <h2 align="center"> Kršitev statuta in poslovnika Občine Ruše s strani županje ge. Urške Repolusk!  </h2>
 
@@ -20,7 +20,7 @@ Po našem mnenju je skrajni čas, da svetniki Občinskega sveta Ruše daste vede
 ste v skladu s 15. členom Statuta Občine Ruše najvišji organ odločanja v Občini Ruše 
 in vztrajate pri upoštevanju ter izvrševanju vaših odločitev.
 
-<h2 align="center"> Obrazložitev</h2>
+<h3 align="center"> Obrazložitev</h3>
 
 Predstavitev tras zahodnega dela obvoznice, z dne 23. marca 2022 namreč nakazuje, 
 da bo županja ga. Urška Repolusk <u>kljub izrecni</u> prepovedi svetnikov Občine Ruše, 
