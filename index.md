@@ -9,11 +9,11 @@ Ad Hoc Civilna Iniciativa
 <br/>
 	
 ### Izjava za javnost (2) - 18. februar 2022
-[Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice](IzjavaZaJavnost-2022-02-18.md)
+[Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice](2022-02-18-IzjavaZaJavnost.md)
 <br/>
 <br/>
 	
 ### Izjava za javnost (1) - 16. februar 2022
-[Premik poteka trase zahodnega dela obvoznice Ruše](IzjavaZaJavnost-2022-02-16.md)
+[Premik poteka trase zahodnega dela obvoznice Ruše](2022-02-16-IzjavaZaJavnost.md)
 
 
