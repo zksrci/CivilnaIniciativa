@@ -10,8 +10,8 @@
 
 
 ### Izjava za javnost - Premik poteka trase zahodnega dela obvoznice Ruše
-[16. februar 2022](2022-02-16-IzjavaZaJavnost.md)
+[16. februar 2022](02022-02-16-IzjavaZaJavnost.html)
 
 ### Izjava za javnost - Ustavitev vseh dejavnosti občine Ruše za prestavitev zahodne obvoznice
-[18. februar 2022](2022-02-18-IzjavaZaJavnost.md)
+[18. februar 2022](02022-02-18-IzjavaZaJavnost.html)
 
