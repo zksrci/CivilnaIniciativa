@@ -15,5 +15,7 @@ Ad Hoc Civilna Iniciativa
 	
 ### Izjava za javnost (1) - 16. februar 2022
 [Premik poteka trase zahodnega dela obvoznice Ruše](2022-02-16-IzjavaZaJavnost.md)
+<br/>
+[pdf](./pdf/2022-02-16-IzjavaZaJavnost.pdf)
 
 
