@@ -1,4 +1,6 @@
 
+[Kazalo](index.md)
+
 #### Zaskrbljeni krajani Smolnika in Ruš
 #### Ad Hoc Civilna Iniciativa
 
@@ -55,3 +57,5 @@ ki gredo skozi naš kraj.
 
 
 Ruše, 16. februar 2022
+
+[Kazalo](index.md)
