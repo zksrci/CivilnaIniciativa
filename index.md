@@ -8,6 +8,15 @@ Ad Hoc Civilna Iniciativa
 # Proti premiku obvoznice v zahodnem delu Ruš
 <br/>
 
+### Izjava za javnost (4) - 25. marec 2022
+[Javni poziv svetnikom Občinskega sveta Občine Ruše](2022-03-25-JavniPozivSvetnikomObcineRuse.md)
+<br/>
+<br/>
+![PDF](./pic/pdf16.png)
+[2022-03-25-JavniPozivSvetnikomObcineRuse.pdf](./pdf/2022-03-25-JavniPozivSvetnikomObcineRuse.pdf)	
+<br/>
+<br/>
+
 
 ### Izjava za javnost (3) - 15. marec 2022
 [Zapis v glasilu Ruški utrip o zahodni obvoznici Ruše](2022-03-15-IzjavaZaJavnost.md)
