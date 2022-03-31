@@ -141,7 +141,7 @@ izbira:
    soglašajo z mnenjem Nacionalnega inštituta za javno zdravje št. 354-231/2020-7 (256). 
    V tem mnenju NIJZ ocenjuje, da izvedba plana OPPN obvoznica Ruše, v obliki in obsegu, 
    kot je opisan v osnutku plana, lahko ima pomemben vpliv na zdravje in počutje ljudi.   
-   <br/><br/>
+   <br/>
    *Povedano poenostavljeno*: **Ministrstvo za zdravje in NIJZ sta ugotovila, da bo imela 
    prestavljena trasa pomembne negativne vplive na zdravje in počutje ljudi.**
 
