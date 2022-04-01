@@ -1,10 +1,9 @@
 ### Premik poteka trase zahodnega dela obvoznice Ruše
 
-[Kazalo](index.md)
-
 #### Zaskrbljeni krajani Smolnika in Ruš
 #### Ad Hoc Civilna Iniciativa
 
+[Kazalo](index.md)
 
 #  Izjava za javnost - Premik poteka trase zahodnega dela obvoznice Ruše
 
