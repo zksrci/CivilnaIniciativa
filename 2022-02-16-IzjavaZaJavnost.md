@@ -1,3 +1,4 @@
+### Premik poteka trase zahodnega dela obvoznice Ruše
 
 [Kazalo](index.md)
 
@@ -59,3 +60,5 @@ ki gredo skozi naš kraj.
 Ruše, 16. februar 2022
 
 [Kazalo](index.md)
+
+![GIT](./pic/status_work_green_256x256.png)
