@@ -3,11 +3,9 @@ Zaskrbljeni krajani Smolnika in Rus
 <br/>
 Ad Hoc Civilna Iniciativa 
 
-![GIT](./pic/status_work_green_64x64.png)
 
 # Proti premiku obvoznice v zahodnem delu Ruš
 <br/>
-
 
 
 
