@@ -14,7 +14,7 @@ da bo na tej lokaciji cesta, ki povezuje smer iz Lovrenca na Pohorju proti ovink
 nad mostom čez reko Dravo (Selniška cesta).
 
 **Kot strela iz jasnega** nas je vse skupaj doletelo, da se ta 30-let stara trasa
-prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž železniške 
+prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž severnega roba železniške 
 proge Maribor - Prevalje, številka 34, med železniško postajo Ruše in viaduktom na Smolniku.
 
 Nekako nismo mogli doumeti, **kaj je narobe z našo kmečko logiko**, da se je obstoječa trasa, 
@@ -22,9 +22,9 @@ ki je po celotni dolžini dovvolj široka, da se lahko izgradi **cesta z dvema p
 kolesarsko stezo. Dovolj je pa tudi prostora za lep drevored**.
 
 Sedaj pa Občina Ruše naenkrat premika traso ob severni rob železniške proge, med progo in hiše.
-Cesta je sprojektirana v izjemno ozki širini, z ozkim hodnikom za pešce na eni strani. 
-Kolesarske steze ni po celotni dolžini, namesto drevoreda bomo pa dobili protihrupne
-ograje.
+Cesta je sprojektirana v **izjemno ozki širini, z ozkim hodnikom za pešce samo na eni strani**. 
+Kolesarske steze ni po celotni dolžini, **namesto drevoreda bomo pa dobili protihrupne
+ograje**.
 
 Za hiter vpogled je najbolje nekaj slikovnega materiala z opombami.
 
