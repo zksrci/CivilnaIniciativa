@@ -10,8 +10,7 @@ Ad Hoc Civilna Iniciativa
 
 
 ### Izjava za javnost (11) - 8. april 2022
-<!-- [Kaj je narobe z našo kmečko logiko?!](2022-04-08-IzjavaZaJavnost.md) -->
-**Kaj je narobe z našo kmečko logiko?! (Prvi vtis o problematiki)**
+[Kaj je narobe z našo kmečko logiko?! (Prvi vtis o problematiki)](./index-prvi-vtis.md)
 <br/>
 <br/>
 ![PDF](./pic/pdf16.png)
