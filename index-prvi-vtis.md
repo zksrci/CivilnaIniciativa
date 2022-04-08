@@ -11,12 +11,12 @@ Ad Hoc Civilna Iniciativa
 Zahodni del obvoznice Ruše je umeščen v prostor že več kot 30-let. Civilna iniciativa
 sicer ni seznanjena z vsem dogajanjem glede tega dela obvoznice tekom vseh 30-let, 
 vemo pa dobro (kot tudi vsi, ki živijo na tem območju), da se je od nekdaj govorilo, 
-da bo na tej lokaciji cesta, ki povezuje smer iz Lovrenca proti ovinku nad mostom
+da bo na tej lokaciji cesta, ki povezuje smer iz Lovrenca na Pohorju proti ovinku nad mostom
 čez reko Dravo.
 
-Sedaj nas je pa vse skupaj doletelo, kot strela iz jasnega, da se ta trasa 30-let stara trasa
-prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž železniške proge Maribor - Prevalje,
-številka 34, med železniško postajo Ruše in viaduktom na Smolniku.
+**Kot strela iz jasnega** nas je vse skupaj doletelo, da se ta 30-let stara trasa
+prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž železniške 
+proge Maribor - Prevalje, številka 34, med železniško postajo Ruše in viaduktom na Smolniku.
 
 Nekako nismo mogli doumeti, **kaj je narobe z našo kmečko logiko**, da se je obstoječa trasa, 
 ki je po celotni dolžini dovvolj široka, da se lahko izgradi **cesta z dvema pločnikoma, 
@@ -55,8 +55,8 @@ za katero se zavzema ga. županja Urška Repolusk. [Ruški Utrip](https://ruse.s
 
 Na sliko smo označili koridor obstoječe trase, prestavljena trasa pa je že označena z rdečo črto. 
 Slika je izsek iz slike dokumentacije Občine Ruše. **Na sliki se lepo vidi širina koridorja, ki 
-ga občina že desetletja skrbno hrani za zahodni del obvoznice Ruše**. Lepo se tudi vidi, čez koliko 
-hiš je speljana rdeča črta.
+ga občina že desetletja skrbno hrani za zahodni del obvoznice Ruše**. Lepo se tudi vidi, **čez koliko 
+hiš je speljana rdeča črta**.
 
 ![Trase](./pic/2022+03-23-SlikaIzStrokovnihPrilog-06.png)
 
@@ -86,6 +86,9 @@ Z **A**, **B** in **C** so označene meje parcel.
 - **A**: Parcela Slovenskih železnic
 - **B**: Parcela Občine Ruše
 - **C**: Parcela Občine Ruše
+
+Z modro barvo je laično prerisan potek ceste in škarpa (dograditev nasipa), ki so jo planirali 
+projektanti.
 
 
 ## Prerez v tem delu
