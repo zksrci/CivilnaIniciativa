@@ -11,13 +11,13 @@ Ad Hoc Civilna Iniciativa
 
 
 
-[Izjave za javnost civilne iniciative](./index-izjave-za-javnost.pdf)
+[Izjave za javnost civilne iniciative](./index-izjave-za-javnost.md)
 
 
-[Mediji o nas](./index-izjave-za-javnost.pdf)
+[Mediji o nas](./index-izjave-za-javnost.md)
 
 <br/>
 
-![PDF](./pic/2022-03-31-IgrisceViadukt.JPG)
+![PDF](./pic/2022-03-31-IgrisceViadukt.jpg)
 
 **Slika**: Naše lep park z otroškim igtiščem, ki ga  bodo porušili ob izgradnji ceste na tej lokaciji.
