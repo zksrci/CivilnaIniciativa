@@ -124,5 +124,7 @@ Ad Hoc Civilna Iniciativa
 
 
 [Kazalo](index.md)
+<br/>
+<br/>
 
 ![GIT](./pic/status_work_green_64x64.png)
