@@ -19,7 +19,7 @@ proge Maribor - Prevalje, številka 34, med železniško postajo Ruše in viaduk
 
 Nekako nismo mogli doumeti, **kaj je narobe z našo kmečko logiko**?! 
 
-Obstoječa trasa, je po celotni dolžini dovolj široka, da se lahko izgradi **cesta z 
+Obstoječa trasa, je po celotni dolžini dovolj široka da se lahko izgradi **cesta z 
 dvema pločnikoma, kolesarsko stezo. Dovolj je prostora za lep drevored**.
 
 Sedaj pa Občina Ruše naenkrat premika traso ob severni rob železniške proge, na ozki
@@ -29,7 +29,7 @@ Kolesarske steze ni po celotni dolžini, **namesto drevoreda pa dobimo protihrup
 
 Za hiter vpogled je najbolje nekaj slikovnega materiala z opombami.
 
-## Primarjava vseh tras 
+## Primerjava vseh tras 
 
 Izsek slike iz dokumentacije Občine Ruše. Prikazuje vse tri trase, ki so relevantne v sedanji primerjavi:
 - **Rdeča**:  Obstoječa trasa (30-let stara trasa)
@@ -39,7 +39,7 @@ Izsek slike iz dokumentacije Občine Ruše. Prikazuje vse tri trase, ki so relev
 
 ![Trase](./pic/2022-04-01-VseVarianteTras.png)
 
-V dokumentu se bomo fokusirali na **rdečo**, ki jo bomo poimenovali **obstoječa trasa**, in na
+V dokumentu se bomo osredotočili na **rdečo**, ki jo bomo poimenovali **obstoječa trasa**, in na
 **zeleno**, ki jo bomo poimenovali **prestavljena trasa**.
 
 ## Primarjava dveh relevantnih tras 
@@ -93,7 +93,7 @@ projektanti.
 
 ## Prerez v tem delu
 
-Prerez ceste v najožjem delu mimo Falske 126, False 124, Gozdarske ulice in Trpinove ulice. Niso še 
+Prerez ceste v najožjem delu mimo Falske 126, Falske 124, Gozdarske ulice in Trpinove ulice. Niso še 
 upoštevane protihrupne ograje.
 
 ![Prerez](./pic/2022-04-01-nacrt.png)
