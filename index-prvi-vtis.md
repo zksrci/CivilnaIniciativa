@@ -34,7 +34,7 @@ Za hiter vpogled je najbolje nekaj slikovnega materiala z opombami.
 Izsek slike iz dokumentacije Občine Ruše. Prikazuje vse tri trase, ki so relevantne v sedanji primerjavi:
 - **Rdeča**:  Obstoječa trasa (30-let stara trasa)
 - **Zelena**: Nova (prestavljena) trasa
-- **Modra**:  Trasa po obstoječih cesti (Falska ulica + Kolodvorska ulica), za katero pa najbrž ni nihče, 
+- **Modra**:  Trasa po obstoječi cesti (Falska ulica + Kolodvorska ulica), za katero pa najbrž ni nihče, 
               saj gre dvakrat mimo osnovne šole Janka Glazerja Ruše.
 
 ![Trase](./pic/2022-04-01-VseVarianteTras.png)
@@ -66,8 +66,8 @@ Slika območja ob **kulturno zaščiteni** večstanovanjski hiši Falska cesta 1
 vpisali odmike in mere iz načrta. Odmik hiše od severnega tira železniške proge smo tudi izmerili 
 in znaša cca 17m do roba fasade. Varovani pas okoli železnice je 6m od osi železnice, se pravi, 
 da do hiše ostane nekaj več kot 11m. Obvoznica je v tem delu široka cca. 10m. Pri tem pa v načrtih 
-še niso vrisane protihrupne ograje, saj dosedaj še nismo bili deležni, da bi jih Občina Ruše naložila
-med dokumentacijo.
+še niso vrisane protihrupne ograje, saj dosedaj še nismo bili deležni, da bi popravljene načrte
+z vrisanimi protihrupnimi ograjami Občina Ruše naložila med dokumentacijo.
 
 Najbrž boste iz te slike razumeli, zakaj smo to traso obvoznice poimenovali kar **“bob steza”**. 
 V dokumentaciji smo zasledili, da bo cesta namenjena za kamione do 40 ton nosilnosti. Lahko si samo 
