@@ -10,9 +10,9 @@ Ad Hoc Civilna Iniciativa
 	
 Zahodni del obvoznice Ruše je umeščen v prostor že več kot 30-let. Civilna iniciativa
 sicer ni seznanjena z vsem dogajanjem glede tega dela obvoznice tekom vseh 30-let, 
-vemo pa dobro (kot tudi vsi, ki živijo na tem območju), da se je od nekdaj govorilo, 
-da bo na tej lokaciji cesta, ki povezuje smer iz Lovrenca na Pohorju proti ovinku nad mostom
-čez reko Dravo.
+vemo pa dobro (kot tudi vsi, ki živijo na tem območju). Od nekdaj se je govorilo, 
+da bo na tej lokaciji cesta, ki povezuje smer iz Lovrenca na Pohorju proti ovinku 
+nad mostom čez reko Dravo (Selniška cesta).
 
 **Kot strela iz jasnega** nas je vse skupaj doletelo, da se ta 30-let stara trasa
 prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž železniške 
@@ -69,13 +69,13 @@ da do hiše ostane nekaj več kot 11m. Obvoznica je v tem delu široka cca. 10m.
 še niso vrisane protihrupne ograje, saj dosedaj še nismo bili deležni, da bi jih Občina Ruše naložila
 med dokumentacijo.
 
-Najbrž boste iz te slike razumeli, zakaj smo to traso obvoznice mi poimenovali kar **“bob steza”**. 
+Najbrž boste iz te slike razumeli, zakaj smo to traso obvoznice poimenovali kar **“bob steza”**. 
 V dokumentaciji smo zasledili, da bo cesta namenjena za kamione do 40 ton nosilnosti. Lahko si samo 
 predstavljamo, kako bi tak promet vplival na to več kot 130 let staro hišo (informacija od stanovalcev). 
-Ljudem bi pa praktično pred okna postavili še protihrupne ograje.
+**Ljudem bi pa praktično pred okna postavili še protihrupne ograje**.
 
-Za primerjavo, pas, ki je puščen na obstoječi trasi je 20 in več metrov, ob tej hiši pa je projektirana 
-cesta v širini cca 10 metrov.
+Za primerjavo, pas, ki je puščen na obstoječi trasi je 20 in več metrov, ob tej hiši pa je prestavljena
+trasa ceste projektirana v širini cca 10 metrov.
 
 Slika je iz platforme Google Maps.
 
