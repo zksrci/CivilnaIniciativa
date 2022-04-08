@@ -16,6 +16,7 @@ Ad Hoc Civilna Iniciativa
 
 
 ### 4. april 2022 -- Večer Online (Youtube)
+[![Vecer](./pic/vecer_video_small.png)](https://youtu.be/wASHrHIMiEA)
 [Obvoznica Ruše](https://youtu.be/wASHrHIMiEA)
 <br/>
 <br/>
