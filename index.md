@@ -5,12 +5,12 @@ Ad Hoc Civilna Iniciativa
 
 
 # Proti premiku obvoznice v zahodnem delu Ruš
-<br/>
 
+<!-- <br/>  -->
 
 [![Vecer](./pic/vecer_video_small.png)](https://youtu.be/wASHrHIMiEA)
 
-<br/>
+<!-- <br/>  -->
 
 [Izjave za javnost civilne iniciative](./index-izjave-za-javnost.md)
 

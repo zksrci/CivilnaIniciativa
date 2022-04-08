@@ -3,7 +3,7 @@ Zaskrbljeni krajani Smolnika in Ruš
 <br/>
 Ad Hoc Civilna Iniciativa 
 
-[Kazalo](index.md)
+[Prva stran](index.md)
 
 # Izjave za javnost
 <br/>
@@ -123,7 +123,7 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
-[Kazalo](index.md)
+[Prva stran](index.md)
 <br/>
 <br/>
 
