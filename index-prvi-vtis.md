@@ -116,8 +116,15 @@ Sami si ustvarite svoje mnenje glede širine obstoječe trase.
 <br/>
 <br/>
 
+Dokument: 
+![PDF](./pic/pdf16.png)
+[2022-04-08-IzjavaZaJavnost.pdf](./pdf/2022-04-08-IzjavaZaJavnost.pdf)	
+
+<br/>
+<br/>
+
 [Prva stran](index.md)
 <br/>
 <br/>
 
-![GIT](./pic/status_work_green_64x64.png)
+[![GIT](./pic/status_work_green_64x64.png)](index.md)
