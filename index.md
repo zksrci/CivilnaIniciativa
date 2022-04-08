@@ -1,5 +1,5 @@
 
-Zaskrbljeni krajani Smolnika in Rus
+Zaskrbljeni krajani Smolnika in Ruš
 <br/>
 Ad Hoc Civilna Iniciativa 
 
