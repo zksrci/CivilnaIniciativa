@@ -127,4 +127,4 @@ Dokument:
 <br/>
 <br/>
 
-[![GIT](./pic/status_work_green_64x64.png)](index.md)
+![GIT](./pic/status_work_green_64x64.png)
