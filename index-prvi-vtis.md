@@ -17,14 +17,15 @@ nad mostom čez reko Dravo (Selniška cesta).
 prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž severnega roba železniške 
 proge Maribor - Prevalje, številka 34, med železniško postajo Ruše in viaduktom na Smolniku.
 
-Nekako nismo mogli doumeti, **kaj je narobe z našo kmečko logiko**, da se je obstoječa trasa, 
-ki je po celotni dolžini dovolj široka, da se lahko izgradi **cesta z dvema pločnikoma, 
-kolesarsko stezo. Dovolj je pa tudi prostora za lep drevored**.
+Nekako nismo mogli doumeti, **kaj je narobe z našo kmečko logiko**?! 
 
-Sedaj pa Občina Ruše naenkrat premika traso ob severni rob železniške proge, med progo in hiše.
+Obstoječa trasa, je po celotni dolžini dovolj široka, da se lahko izgradi **cesta z 
+dvema pločnikoma, kolesarsko stezo. Dovolj je prostora za lep drevored**.
+
+Sedaj pa Občina Ruše naenkrat premika traso ob severni rob železniške proge, na ozki
+koridor med železniško progo in hiše, ki stojijo tukaj že 100 in več let (nekatere). 
 Cesta je sprojektirana v **izjemno ozki širini, z ozkim hodnikom za pešce samo na eni strani**. 
-Kolesarske steze ni po celotni dolžini, **namesto drevoreda bomo dobili protihrupne
-ograje**.
+Kolesarske steze ni po celotni dolžini, **namesto drevoreda pa dobimo protihrupne ograje**.
 
 Za hiter vpogled je najbolje nekaj slikovnega materiala z opombami.
 
