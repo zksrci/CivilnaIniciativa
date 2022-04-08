@@ -32,6 +32,9 @@ Ad Hoc Civilna Iniciativa
 [VIDEO: Zaradi načrtov obvoznice v Rušah izredno stanje, ljudje so razdvojeni](https://lokalec.si/novice/video-zaradi-nacrtov-obvoznice-v-rusah-izredno-stanje-ljudje-so-razdvojeni/)
 <br/>
 <br/>
+[![BKTV](./pic/video_bktv_01_small.png)](https://youtu.be/GwGe1nTLSAg)
+<br/>
+<br/>
 
 
 ### 16. marec 2022 -- Lokalec (BKTV)
