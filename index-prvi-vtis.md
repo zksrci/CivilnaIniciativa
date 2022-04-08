@@ -6,11 +6,10 @@ Ad Hoc Civilna Iniciativa
 [Prva stran](index.md)
 
 # Prvi vtis o problematiki
-<br/>
 	
 Zahodni del obvoznice Ruše je umeščen v prostor že več kot 30-let. Civilna iniciativa
 sicer ni seznanjena z vsem dogajanjem glede tega dela obvoznice tekom vseh 30-let, 
-vemo pa dobro (kot tudi vsi, ki živijo na tem območju). Od nekdaj se je govorilo, 
+vemo pa dobro (kot tudi vsi, ki živijo na tem območju) sledeče: od nekdaj se je govorilo, 
 da bo na tej lokaciji cesta, ki povezuje smer iz Lovrenca na Pohorju proti ovinku 
 nad mostom čez reko Dravo (Selniška cesta).
 
