@@ -12,7 +12,7 @@ Ad Hoc Civilna Iniciativa
 
 <!-- <br/>  -->
 
-[Prvi vtis](./index-prvi vtis.md)
+[Prvi vtis](./index-prvi-vtis.md)
 
 
 [Izjave za javnost civilne iniciative](./index-izjave-za-javnost.md)
