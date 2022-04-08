@@ -7,13 +7,13 @@ Ad Hoc Civilna Iniciativa
 
 # Prvi vtis o problematiki
 	
-Zahodni del obvoznice Ruše je umeščen v prostor že več kot 30-let. Civilna iniciativa
-sicer ni seznanjena z vsem dogajanjem glede tega dela obvoznice tekom vseh 30-let, 
+Zahodni del obvoznice Ruše je umeščen v prostor že več kot 30 let. Civilna iniciativa
+sicer ni seznanjena z vsem dogajanjem glede tega dela obvoznice tekom vseh 30 let, 
 vemo pa dobro (kot tudi vsi, ki živijo na tem območju) sledeče: od nekdaj se je govorilo, 
 da bo na tej lokaciji cesta, ki povezuje smer iz Lovrenca na Pohorju proti ovinku 
 nad mostom čez reko Dravo (Selniška cesta).
 
-**Kot strela iz jasnega** nas je vse skupaj doletelo, da se ta 30-let stara trasa
+**Kot strela iz jasnega** nas je vse skupaj doletelo, da se ta 30 let stara trasa
 prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž severnega roba železniške 
 proge Maribor - Prevalje, številka 34, med železniško postajo Ruše in viaduktom na Smolniku.
 
@@ -32,7 +32,7 @@ Za hiter vpogled je najbolje nekaj slikovnega materiala z opombami.
 ## Primerjava vseh tras 
 
 Izsek slike iz dokumentacije Občine Ruše. Prikazuje vse tri trase, ki so relevantne v sedanji primerjavi:
-- **Rdeča**:  Obstoječa trasa (30-let stara trasa)
+- **Rdeča**:  Obstoječa trasa (30 let stara trasa)
 - **Zelena**: Nova (prestavljena) trasa
 - **Modra**:  Trasa po obstoječi cesti (Falska ulica + Kolodvorska ulica), za katero pa najbrž ni nihče, 
               saj gre dvakrat mimo osnovne šole Janka Glazerja Ruše.
