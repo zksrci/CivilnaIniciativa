@@ -26,4 +26,4 @@ Ad Hoc Civilna Iniciativa
 <br/>
 <br/>
 	
-![GIT](./pic/status_work_green_64x64.png)
+![GIT](./pic/status_work_green_256x256.png)
