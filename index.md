@@ -8,6 +8,9 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
+[![Vecer](./pic/vecer_video_small.png)](https://youtu.be/wASHrHIMiEA)
+
+<br/>
 
 [Izjave za javnost civilne iniciative](./index-izjave-za-javnost.md)
 
