@@ -21,7 +21,7 @@ Ad Hoc Civilna Iniciativa
 
 ![Igrisce](./pic/2022-04-04-ParkIgrisceViadukt-light.jpg)
 
-**Slika**: Naš lep park z otroškim igtiščem, ki ga  bodo porušili ob izgradnji ceste na tej lokaciji.
+**Slika**: Naš lep park z otroškim igriščem, ki ga  bodo porušili ob izgradnji ceste na tej lokaciji.
 
 
 <br/>
