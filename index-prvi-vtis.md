@@ -18,7 +18,7 @@ prestavlja na drugo lokacijo. Prestavlja se na lokacijo vzdolž severnega roba �
 proge Maribor - Prevalje, številka 34, med železniško postajo Ruše in viaduktom na Smolniku.
 
 Nekako nismo mogli doumeti, **kaj je narobe z našo kmečko logiko**, da se je obstoječa trasa, 
-ki je po celotni dolžini dovvolj široka, da se lahko izgradi **cesta z dvema pločnikoma, 
+ki je po celotni dolžini dovolj široka, da se lahko izgradi **cesta z dvema pločnikoma, 
 kolesarsko stezo. Dovolj je pa tudi prostora za lep drevored**.
 
 Sedaj pa Občina Ruše naenkrat premika traso ob severni rob železniške proge, med progo in hiše.
@@ -44,8 +44,8 @@ V dokumentu se bomo fokusirali na **rdečo**, ki jo bomo poimenovali **obstoječ
 ## Primarjava dveh relevantnih tras 
 
 Slika je izsek slike, ki je bila objavljena v uradnem glasilu Občine Ruše - Ruškem Utripu št. 1, 
-marec 2022. Mi smo vrisali relevantne lokacije. Zelo lepo je vidno, da je širina obstoječe trase, 
-ki je že vrisana v prostorske načrte skoraj 2x (**dva krat**) širša kot nova, prestavljena trasa, 
+marec 2022. Mi smo vrisali relevantne lokacije. Zelo lepo je vidno, da je **širina obstoječe trase**, 
+ki je že vrisana v prostorske načrte skoraj 2x (**dva krat**) **širša kot nova, prestavljena trasa**, 
 za katero se zavzema ga. županja Urška Repolusk. [Ruški Utrip](https://ruse.si/objava/604392).
 
 ![Trase](./pic/2022-03-14-Trasa.png)
