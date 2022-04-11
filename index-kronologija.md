@@ -51,6 +51,33 @@ Nekako smo razbrali, da je bilo vrednotenje iz leta 2009 primer dobre
 prakse, potem pa se čas zavrti naprej in postane današnje
 vrednotenje po našem mnenju primer najslabše možne prakse.
 
+## 2011
+
+### Maj 2011 - Priporočilo Ministrstva za infrastrukturo in prostor
+
+Maja 2011 je Ministrstvo za infrastrukturo in prostor izdalo: **Priporočilo
+občinam za zgodnejše vključevanje javnosti v postopke priprave prostorskih
+aktov lokalnih skupnosti** na katerega **se županja Ruš ga. Urška Repolusk požvižga**.
+
+Priporočilo zelo jasno navaja in občinam priporoča, da takoj po sprejetju 
+sklepa župana o začetku postopka priprave OPN in OPPN pričnejo z aktivnostmi 
+vključevanja javnosti. Navedeno je tudi kako naj občine to izvedejo in zakaj. 
+Razlog, ki so ga izrecno navedli je v tem, da če se ne vodi postopek na tak 
+transparenten način pogosto pride do konflikta z javnostmi. To lahko proces 
+načrtovanja močno upočasni ali celo ustavi.
+
+Ga. županja Urška Repolusk je v Ruškem utripu zelo jasno napisala, da faza 
+postopka vključevanja javnosti, ki vključuje tudi aktivno obveščanje lastnikov 
+ob trasi, sploh še ni nastopila. Prav tako je navedla, da je tudi študijo 
+variant, strokovne podlage z gradivom za prvo branje sprememb in dopolnitev 
+OPN nameravala predstaviti občinskemu svetu šele v prvi polovici leta 2022. 
+Iz zgoraj omenjenega priporočila pa izhaja, da je takrat za morebitne 
+spremembe že dosti prepozno.
+
+
+[![Priporocila2011](./pdf2/Priloga-Priporocila2011.png)](./pdf2/Priloga-Priporocila2011.pdf)
+
+
 ## 2013
 
 ### 24. maj 2013 - Sklep - Pričetek priprave OPN-SD2
@@ -137,7 +164,8 @@ Posamezni dokumenti iz projektne dokumentacije so narejeni že v letu 2019.
 Pri tem se nam zastavlja vprašanje ali je bila občina upravičena naročiti 
 izdelavo projektne dokumentacije pred sprejetjem sklepa z dne 29. maja 2020?
 
-Kako je izgledal dostop si lahko vsak ustvari mnenje sam:
+Kako izgleda dostop do spletne strani z dokumentacijo si lahko vsak ustvari 
+mnenje sam:
 
 [![SkritoDokumantacija](./pdf2/Priloga-SkorajSkritoNaSpletniStraniObcine-Thumbnail.png)](./pdf2/Priloga-SkorajSkritoNaSpletniStraniObcine.png)
 
@@ -153,7 +181,7 @@ Z odločbo Ministrstva za okolje in prostor je odločeno, da bo za novo traso
 zahodnega dela obvoznice Ruše, **v obliki in obsegu, kot je opisan v osnutku plana, 
 lahko imela pomemben vpliv na zdravje in počutje ljudi**. Ministrstvo za okolje in 
 prostor v odločbi tudi jasno oznani, da se bo rušilo **nekaj hiš** in **ne samo ena**,
-kot trdi projektant in Občina Ruše. To je očiten znak, da Občina Ruše in projektant 
+kot trdita projektant in Občina Ruše. To je očiten znak, da Občina Ruše in projektant 
 **z nekim namenom nista upoštevala dovolj širokega koridorja za prestavljeno traso 
 zahodnega dela obvoznice ob severnem robu železnice**.
 
@@ -187,24 +215,24 @@ Svetniki z veliko večino (15 glasov za, 3 vzdržani) sprejmejo sklep o
 Županja ga. Urška Repolusk je tekst amandmaja pred glasovanjem spremenila, 
 ker ni hotela vpisati datuma začetka veljave: 1. januar 2022. 
 
-### 22. februarja 2022 - Odgovor Zavoda za varstvo kulturne dediščine Slovenije na naše vprašanje glede dopustnosti gradnje ob robu kulturno zaščitene stavbe
+### 22. februarja 2022 - Odgovor Zavoda za varstvo kulturne dediščine Slovenije na naše vprašanje glede dopustnosti gradnje ob robu kulturno zaščitene stavbe (stavba Falska 124)
 
 Zavod za varstvo kulturne dediščine - Območna enota Maribor, zelo jasno pove,
 da je potrebno zaradi **ohranjanja pojavnosti** in **gradbene stabilnosti**
-upštevati **ustrezno odmaknjenost trase od obstoječe stavbne dediščine**.
+upoštevati **ustrezno odmaknjenost trase od obstoječe stavbne dediščine**.
 
-Predvidevamo, da bo Občina Ruše dosegla **ohranjanje pojavnosti** z nevidnimi
-protihrupnimi ograjami. **Gradbeno stabilnost** pa bo zadostila, ker bo obvoznica
-odmaknjena za cel meter od strehe kulturno zaščitenega objekta.
+Predvidevamo, da bo Občina Ruše dosegla **ohranjanje pojavnosti** z <u>nevidnimi
+protihrupnimi ograjami</u>. **Gradbeno stabilnost** pa bo zadostila, ker bo obvoznica
+<u>odmaknjena za cel meter</u> od strehe kulturno zaščitenega objekta.
 
 Zavod za kulturno dediščino, **še ni prejel vloge investitorja za izdajo 
 kulturnovarstvenih pogojev**. Kot kaže Občina Ruše nima namena preveriti
 pogoje za gradnjo obvoznice ob tej kulturno zaščiteni večstanovanjski
 hiši.
 
-Še enkrat pa opomnimo, da Občina Ruše po naših podatkih še ni spremenila
-strategije razvoja iz leta 2009, kjer se je zavezala, da bo skrbela
-za kulturno dediščino v Rušah.
+Še enkrat pa opomnimo, da je Občina Ruše v skladu s strategijo razvoja iz 
+leta 2009 dolžna skrbeti za kulturno dediščino. 
+
 
 [![OdgovorZvkds2022](./pdf2/Priloga-OdgovorZvkds2022.png)](./pdf2/Priloga-OdgovorZvkds2022.pdf)
 
