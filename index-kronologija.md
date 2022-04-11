@@ -17,12 +17,13 @@ Na zgornji sliki bo prestavljena trasa obvoznice izgrajena na levi strani
 
 ## 2009
 
-### 11. april 2009 - Odlok - o strategiji prostorskega razvoja Občine Ruše
+### 11. april 2009 - Odlok o strategiji prostorskega razvoja Občine Ruše
 
 Za kasnejše celostno razumevanje problematike izpostavljamo Odlok o strategiji
-prostorskega razvoja Občine Ruše. Tukaj Občina Ruše pove, da bo vzpodbujala razvoj
-in širitev naselij, tudi naselja na Smolniku. Pri načrtovanju prostorskega razvoja
-bo upoštevala kulturno dediščino in jo varovala (hiša Falska cesta 124).
+prostorskega razvoja Občine Ruše. V odloku je yapisano, da bo Občina Ruše 
+vzpodbujala razvoj in širitev naselij, tudi naselja na Smolniku. Pri 
+načrtovanju prostorskega razvoja bo upoštevala kulturno dediščino in jo 
+varovala (hiša Falska cesta 124).
 
 Občina bo podpirala gradnjo obvoznice, hkrati pa si bo prizadevala za izboljšanje 
 stanja mirujočega prometa v občinskem središču.
@@ -36,8 +37,9 @@ tega tira, ki bo potekal po levi strani (južni) obstoječega tira.
 
 V članku v spletnem mediju Žurnal 24 je bil objavljen članek z naslovom
 [Izbrali optimalno traso ceste](https://www.zurnal24.si/slovenija/izbrali-optimalno-traso-ceste-57091).
+Izbirali so med več variantami tras.
 
-**Zakaj moramo torej danes še enkrat izbirati traso?**
+**Zakaj moramo torej danes ponovno izbirati traso?!**
 
 ### 21. december 2009 - Diplomsko delo na temo obvoznice Ruše
 
@@ -69,9 +71,8 @@ spremenjena namenska raba prostora.
 **Sklep o začetku postopka priprave Občinskega podrobnega prostorskega načrta** (OPPN) 
 za obvoznico Ruše – faza 1 (stara trasa), Uradno glasilo slovenskih občin 44/15.09.2017. 
 Prejšnji župan je hotel pričeti z izgradnjo ceste predvsem z namenom dostopa do 
-Matavžkove jame in da se zapre prehod čez železnico, ki je varovan samo z 
-Andrejevim križem. Po naših podatkih Slovenske železnice zaprtje tega prehoda čez 
-železnico, že kar nekaj časa zahtevajo in pričakujejo.
+Matavškove jame in hiš. Po naših podatkih Slovenske železnice že nekaj časa zahtevajo
+in pričakujejo, da se zapre prehod čez železniško progo, ki je varovan samo z Andrejevim križem. 
 
 [![Sklep2017](./pdf2/Priloga-Sklep2017.png)](./pdf2/Priloga-Sklep2017.pdf)
 
@@ -98,8 +99,8 @@ Izdelano je že veliko dokumentacije za novo traso obvoznice.
 **Nova trasa izbrana s strani stroke že decembra 2019!**
 
 To je napisano v dokumentu (ne moremo se izraziti drugače) 
-z porogljivim podnaslovom: **Povzetek za javnost**. Po mnenju
-županje Ruš, ge. Urške Repolusk, pa doslej (april 2022) **še ni nastopil 
+s porogljivim podnaslovom: **Povzetek za javnost**. Po mnenju
+županje Ruš ge. Urške Repolusk, pa doslej (april 2022) **še ni nastopil 
 čas za obveščanje ljudi ob trasi, niti čas za obveščanje javnosti**.
 
 
