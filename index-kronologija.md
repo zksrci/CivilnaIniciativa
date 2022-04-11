@@ -5,22 +5,48 @@ Ad Hoc Civilna Iniciativa
 
 [Prva stran](index.md)
 
-# Kronologija prestavitve neke obvoznice
+# Kronologija prestavitve obvoznice
 
 V tem dokumentu smo pripravili kratek povzetek kronologije dogajanja glede 
 zahodnega dela obvoznice Ruše.
 
 ## 2009
 
-### Odlok - o strategiji prostorskega razvoja Občine Ruše (11. april 2009)
+### 11. april 2009 - Odlok - o strategiji prostorskega razvoja Občine Ruše
 
-Za kasnejše celostno razumevanje problematike izpostavljamo odlok o strategiji
-prostorskega razvoja Občine Ruše. Tukaj Občina Ruše pove, da bo podpirala gradnjo
-drugega tira železniške proge in varovala koridor za ta tir.
+Za kasnejše celostno razumevanje problematike izpostavljamo Odlok o strategiji
+prostorskega razvoja Občine Ruše. Tukaj Občina Ruše pove, da bo vzpodbujala razvoj
+in širitev naselij, tudi naselja na Smolniku. Pri načrtovanju prostorskega razvoja
+bo upoštevala kulturno dediščino in jo varovala (hiša Falska cesta 124).
+
+Občina bo podpirala gradnjo obvoznice, hkrati pa si bo prizadevala za izboljšanje 
+stanja mirujočega prometa v občinskem središču.
+
+Podpirala bo gradnjo drugega tira železniške proge in varovala koridor za gradnjo
+tega tira, ki bo potekal po levi strani (južni) obstoječega tira.
 
 [![Sklep2009](./pdf2/Priloga-OdlokStrategijaProstRazvojRuse2009.png)](./pdf2/Priloga-OdlokStrategijaProstRazvojRuse2009.pdf)
 
+### 14. oktober 2009 - Izbrali optimalno traso ceste
+
+V članku v spletnem mediju Žurnal 24 je bil objavljen članek z naslovom
+[Izbrali optimalno traso ceste](https://www.zurnal24.si/slovenija/izbrali-optimalno-traso-ceste-57091).
+
+**Zakaj moramo torej danes še enkrat izbirati traso?**
+
+### 21. december 2009 - Diplomsko delo na temo obvoznice Ruše
+
+Konec leta 2009 je nastalo diplomsko delo 
+[Analiza družbeno-ekonomskih kriterijev pri vrednotenju projektov cestne infrastrukture - primer obvoznice Ruše](https://dk.um.si/IzpisGradiva.php?id=11809&lang=slv).
+V diplomskem delu je jasno prikazana tudi slika štirih variant obvoznice na zahodu Ruš.
+
+Nekako smo razbrali, da je bilo vrednotenje iz leta 2009 primer dobre 
+prakse, potem pa se čas zavrti naprej in postane današnje
+vrednotenje po našem mnenju primer najslabše možne prakse.
+
 ## 2013
+
+### 24. maj 2013 - Sklep - Pričetek priprave OPN-SD2
 
 V letu 2013 je v uradnem glasilu slovenskih občin, št. 20/2013 objavljen **sklep o 
 pričetku priprave sprememb in dopolnitev občinskega prostorskega načrta občine 
@@ -33,18 +59,19 @@ spremenjena namenska raba prostora.
 
 ## 2017
 
-### Sklep - Začetek del na obstoječi trasi
+### 12. september 2017 - Sklep - Začetek del na obstoječi trasi
 
 **Sklep o začetku postopka priprave Občinskega podrobnega prostorskega načrta** (OPPN) 
 za obvoznico Ruše – faza 1 (stara trasa), Uradno glasilo slovenskih občin 44/15.09.2017. 
 Prejšnji župan je hotel pričeti z izgradnjo ceste predvsem z namenom dostopa do 
 Matavžkove jame in da se zapre prehod čez železnico, ki je varovan samo z 
-Andrejevim križem.
+Andrejevim križem. Po naših podatkih Slovenske železnice zaprtje tega prehoda čez 
+železnico, že kar nekaj časa zahtevajo in pričakujejo.
 
 [![Sklep2017](./pdf2/Priloga-Sklep2017.png)](./pdf2/Priloga-Sklep2017.pdf)
 
 
-### Odločba - Obstoječa trasa je popolnoma sprejemljiva za državne organe
+### 15. december 2017 - Odločba - Obstoječa trasa je popolnoma sprejemljiva za državne organe
 
 **Odločba Ministrstva za okolje in prostor št. 35409-325/2017/5 z dne 15.12.2017**
 Z odločbo je odločeno, **da za obvoznico Ruše (stara trasa) ni treba izvesti
@@ -110,7 +137,7 @@ Kako je izgledal dostop si lahko vsak ustvari mnenje sam:
 
 ## 2022
 
-### Odločba - Nova trasa ima lahko pomemben vpliv na zdravje in počutje ljudi
+### 4. januar 2022 - Odločba - Nova trasa ima lahko pomemben vpliv na zdravje in počutje ljudi
 
 4\. januar 2022: 
 [Odločba ministrstva za okolje in prostor št. 35409-366/2021-2550-16](https://www.gov.si/assets/ministrstva/MOP/Dokumenti/CPVO/Odlocbe/obcinski-podrobni-prostorski-nacrti/I-stopnja/2022/01.pdf)
@@ -154,7 +181,29 @@ Svetniki z veliko večino (15 glasov za, 3 vzdržani) sprejmejo sklep o
 Županja ga. Urška Repolusk je tekst amandmaja pred glasovanjem spremenila, 
 ker ni hotela vpisati datuma začetka veljave: 1. januar 2022. 
 
-### 8. marec 2022 - Izid biltena Občine Ruše - Ruški Utrip
+### 22. februarja 2022 - Odgovor Zavoda za varstvo kulturne dediščine Slovenije na naše vprašanje glede dopustnosti gradnje ob robu kulturno zaščitene stavbe
+
+Zavod za varstvo kulturne dediščine - Območna enota Maribor, zelo jasno pove,
+da je potrebno zaradi **ohranjanja pojavnosti** in **gradbene stabilnosti**
+upštevati **ustrezno odmaknjenost trase od obstoječe stavbne dediščine**.
+
+Predvidevamo, da bo Občina Ruše dosegla **ohranjanje pojavnosti** z nevidnimi
+protihrupnimi ograjami. **Gradbeno stabilnost** pa bo zadostila, ker bo obvoznica
+odmaknjena za cel meter od strehe kulturno zaščitenega objekta.
+
+Zavod za kulturno dediščino, **še ni prejel vloge investitorja za izdajo 
+kulturnovarstvenih pogojev**. Kot kaže Občina Ruše nima namena preveriti
+pogoje za gradnjo obvoznice ob tej kulturno zaščiteni večstanovanjski
+hiši.
+
+Še enkrat pa opomnimo, da Občina Ruše po naših podatkih še ni spremenila
+strategije razvoja iz leta 2009, kjer se je zavezala, da bo skrbela
+za kulturno dediščino v Rušah.
+
+[![OdgovorZvkds2022](./pdf2/Priloga-OdgovorZvkds2022.png)](./pdf2/Priloga-OdgovorZvkds2022.pdf)
+
+
+### 8. marec 2022 - Izid občinskega glasila Občine Ruše - Ruški Utrip
 
 Izšelo je občinsko glasilo Občine Ruše 
 [Ruški Utrip](https://www.ruse.si/Files/eMagazine/118/604392/ruski_utrip2022-1.pdf).
