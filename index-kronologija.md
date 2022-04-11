@@ -156,15 +156,15 @@ ker ni hotela vpisati datuma začetka veljave: 1. januar 2022.
 
 ### 8. marec 2022 - Izid biltena Občine Ruše - Ruški Utrip
 
-Izšel je bilten Občine Ruše 
-[Ruski Utrip](https://www.ruse.si/Files/eMagazine/118/604392/ruski_utrip2022-1.pdf).
+Izšelo je občinsko glasilo Občine Ruše 
+[Ruški Utrip](https://www.ruse.si/Files/eMagazine/118/604392/ruski_utrip2022-1.pdf).
 Že na Krajevnem odboru Smolnik, smo krajani prognozirali, da nas bo županja 
-ga. Urška Repolusk obvestila preko biltena Občine Ruše o svojih naslednjih 
-korakih glede zahodnega dela obvoznice Ruše. To se je zgodilo na dan žena.
-V članku z naslovom **Obvoznica Ruše** na straneh 15 - 17 nas občane Ruš 
-županja obvesti, da bo še naprej, kljub <u>izrecni prepovedi</u> svetnikov, 
-vztrajala pri nadaljnjih korakih umestitve nove trase v krovni prostorski 
-načrt Občine Ruše (OPN).
+ga. Urška Repolusk obvestila preko občinskega glasila Občine Ruše o svojih 
+naslednjih korakih glede zahodnega dela obvoznice Ruše. To se je zgodilo 
+na dan žena. V članku z naslovom **Obvoznica Ruše** na straneh 15 - 17 nas 
+občane Ruš županja obvesti, da bo še naprej, kljub <u>izrecni prepovedi</u> 
+svetnikov, vztrajala pri nadaljnjih korakih umestitve nove trase v krovni 
+prostorski načrt Občine Ruše (OPN).
 
 **Tako bomo zgleda dobili v urbanističnih načrtih Ruš dve obvoznici na isti lokaciji?!**
 
@@ -177,8 +177,8 @@ objavljenimi v različnih lokalnih medijih.
 
 ### 23. marec 2022 - Javna predstavitev študije variant
 
-Kljub <u>izrecni prepovedi svetnikov</u> je županja organizirala: 
-**Javna predstavitev študije variant in umestitve obvoznice Ruš v prostorske akte občine**. 
+Kljub <u>izrecni prepovedi</u> svetnikov je županja organizirala: 
+**Javno predstavitev študije variant in umestitve obvoznice Ruš v prostorske akte občine**. 
 Takrat je ga. županja prvič omenila tudi referendum. Nimamo informacije, zakaj in komu je 
 bila ta javna predstavitev namenjena. Lahko pa si mislimo, da bo najbrž služila v postopku
 umeščanja nove trase obvoznice v krovni prostorski načrt (OPN). Pred javno predstavitevijo
@@ -195,8 +195,8 @@ dve leti po tem, ko je izbrala novo traso za obvoznico, ni upoštevala projekcij
 v prihodnosti.
 
 Ob tem pripominjamo, da je med predvidenimi projekti v občini Ruše tudi 
-nadgradnja železniške proge Maribor-Prevalje in sicer v obdobju od 
-2024 do 2027 leta.
+nadgradnja železniške proge Maribor-Prevalje in sicer v obdobju od leta
+2024 do leta 2027.
 
 <br/>
 <br/>
