@@ -20,6 +20,10 @@ Ad Hoc Civilna Iniciativa
 
 [Mediji o nas](./index-mediji-o-nas.md)
 
+
+[Kronologija prestavitve obvoznice](./index-kronologija.md)
+
+
 <br/>
 
 ![Igrisce](./pic/2022-04-04-ParkIgrisceViadukt-light.jpg)
