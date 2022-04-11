@@ -8,7 +8,12 @@ Ad Hoc Civilna Iniciativa
 # Kronologija prestavitve obvoznice
 
 V tem dokumentu smo pripravili kratek povzetek kronologije dogajanja glede 
-zahodnega dela obvoznice Ruše.
+zahodnega dela obvoznice Ruše. 
+
+![ProhaVzhod](./pic/2022-04-04-ProgaVzhod-Light.jpg)
+
+Na zgornji sliki bo prestavljena trasa obvoznice izgrajena na levi strani 
+železniške proge, na desni pa je obstoječa Falska cesta in industrijska cona.
 
 ## 2009
 
