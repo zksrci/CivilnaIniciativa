@@ -59,7 +59,9 @@ celovite presoje vplivov na okolje**.
 
 ## 2019
 
-Izdelano veliko dokumentacije za novo traso obvoznice. 
+### December 2019
+
+Izdelano je že veliko dokumentacije za novo traso obvoznice. 
 
 **Nova trasa izbrana s strani stroke že decembra 2019!**
 
@@ -74,7 +76,7 @@ z porogljivim podnaslovom: **Povzetek za javnost**. Po mnenju
 
 ## 2020
 
-### Sklep - Zamenjava parcelnih številk - Zamenjava trase 
+### 19. maj 2020 - Sklep - Zamenjava parcelnih številk - Zamenjava trase 
 
 **Sklep o spremembah in dopolnitvah sklepa o začetku postopka priprave občinskega 
 podrobnega prostorskega načrta (OPPN) za obvoznico Ruše – faza 1, Uradno glasilo 
@@ -110,16 +112,23 @@ Kako je izgledal dostop si lahko vsak ustvari mnenje sam:
 
 ### Odločba - Nova trasa ima lahko pomemben vpliv na zdravje in počutje ljudi
 
-4. januar 2022: 
+4\. januar 2022: 
 [Odločba ministrstva za okolje in prostor št. 35409-366/2021-2550-16](https://www.gov.si/assets/ministrstva/MOP/Dokumenti/CPVO/Odlocbe/obcinski-podrobni-prostorski-nacrti/I-stopnja/2022/01.pdf)
 
-Z odločbo je odločeno, da bo za novo traso potrebno izvesti postopek celovite 
-presoje vplivov na okolje, saj bi izvedba obvoznice Ruše, v obliki in obsegu, 
-kot je opisan v osnutku plana, lahko imela pomemben vpliv na zdravje in počutje 
-ljudi. V občinskem glasilu [Ruški utrip, str. 15](https://www.ruse.si/objava/604392),  
-županja pove, da se je naročila izdelava celovite presoje vplivov na okolje.
+Z odločbo Ministrstva za okolje in prostor je odločeno, da bo za novo traso 
+**potrebno izvesti postopek celovite presoje vplivov na okolje**, saj bi **izvedba** 
+zahodnega dela obvoznice Ruše, **v obliki in obsegu, kot je opisan v osnutku plana, 
+lahko imela pomemben vpliv na zdravje in počutje ljudi**. Ministrstvo za okolje in 
+prostor v odločbi tudi jasno oznani, da se bo rušilo **nekaj hiš** in **ne samo ena**,
+kot trdi projektant in Občina Ruše. To je očiten znak, da Občina Ruše in projektant 
+**z nekim namenom nista upoštevala dovolj širokega koridorja za prestavljeno traso 
+zahodnega dela obvoznice ob severnem robu železnice**.
 
-[![Sklep2022](./pdf2/Priloga-Sklep2022.png)](./pdf2/Priloga-Sklep2022.pdf)
+V občinskem glasilu 
+[Ruški utrip, str. 15](https://www.ruse.si/objava/604392), županja pove, da se je naročila 
+izdelava celovite presoje vplivov na okolje.
+
+[![Odloba2022](./pdf2/Priloga-Odlocba2022.png)](./pdf2/Priloga-Odlocba2022.pdf)
 
 ### 7. februarja 2022 - Krajani izvemo za premik trase zahodnega dela obvoznice
 
@@ -141,7 +150,9 @@ Svetnik pa je za to izjavo požel buren aplavz.
 ### 17. februarja 2022 - 20. redna seja občinskega sveta
 
 Svetniki z veliko večino (15 glasov za, 3 vzdržani) sprejmejo sklep o 
-**prepovedi črpanja** sredstev **in delovanja** za novo traso obvoznice. 
+**prepovedi črpanja** sredstev **in delovanja** za novo traso obvoznice.
+Županja ga. Urška Repolusk je tekst amandmaja pred glasovanjem spremenila, 
+ker ni hotela vpisati datuma začetka veljave: 1. januar 2022. 
 
 ### 8. marec 2022 - Izid biltena Občine Ruše - Ruški Utrip
 
