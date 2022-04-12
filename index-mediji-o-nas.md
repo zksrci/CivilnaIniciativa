@@ -8,6 +8,14 @@ Ad Hoc Civilna Iniciativa
 # Mediji o nas
 <br/>
 
+### 11. april 2022 -- Lokalec (BKTV)
+[VIDEO: Krajani Smolnika zaradi nove obvoznice na nogah](https://lokalec.si/obcine/video-krajani-smolnika-zaradi-nove-obvoznice-na-nogah/)
+<br/>
+<br/>
+[![BktvLokalec](./pic/video_bktv_02_small.png)](https://lokalec.si/obcine/video-krajani-smolnika-zaradi-nove-obvoznice-na-nogah/) 
+<!-- [![BktvLokalec](./pic/video_bktv_02_small.png)](https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Ftelevizijabktv%2Fvideos%2F395230558803258%2F&amp;show_text=false&amp;width=560&amp;t=0) -->
+<br/>
+<!-- <br/> -->
 
 ### 6. april 2022 -- Večer članek
 [(VIDEO IN FOTO) Ruško obvoznico bi speljali kar po dvoriščih krajanov, ti so ogorčeni: "Smo manjvredni ljudje?"](https://www.vecer.com/maribor/aktualno/video-in-foto-rusko-obvoznico-bi-speljali-kar-po-dvoriscih-krajanov-ti-so-ogorceni-smo-manjvredni-ljudje-10277692)
