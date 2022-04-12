@@ -300,7 +300,7 @@ tem **izkrivljati njihovega pomena**.
 Tekst amandmaja, ki ga je prebrala ga. županja Urška Repolusk pred glasovanjem
 na 20. seji Občinskega sveta Občine Ruše (sklep št. 8):
 
-<blockquote>
+<pre>
 Občinski svet Občine Ruše prepoveduje vse nadaljne postopke in črpanje 
 proračunskih sredstev iz postavke 421 (izdelava prostorskih aktov/področje 
 prostorskega planiranja), v zvezi z novo traso Ruške obvoznice. Aktivnosti se 
@@ -310,7 +310,7 @@ dnevnega reda, o aktivnostih in finančnih posledicah za proračun od 1.1.2019
 dalje, v zvezi z načrtovanjem vseh tras Ruške obvoznice. Sredstva iz omenjene 
 postavke, pa se lahko izrecno uporabijo za drugo prostorsko planiranje in 
 izdelavo prostorskih aktov, ki z obvoznico niso povezani. 
-</blockquote>
+</pre>
 
 <!--
 ```
