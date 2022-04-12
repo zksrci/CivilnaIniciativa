@@ -342,7 +342,8 @@ veljavnih pravil v Občini Ruše, če bo v presojo na Ministrstvo za okolje in p
 tudi novo traso zahodnega dela obvoznice Ruše. 
 
 Sum kršenja veljavnih pravil v Občini Ruše bo ga. županja prevzela na sebe tudi, če bo dala
-krovni prostorski načrt (OPN SD2) v potrditev svetnikom Občinskega sveta Občine Ruše.
+krovni prostorski načrt (OPN SD2) z vključeno novo traso obvoznice v potrditev svetnikom 
+Občinskega sveta Občine Ruše.
 
 [![Postopki](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.png)](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.pdf)
 
