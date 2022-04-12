@@ -281,6 +281,83 @@ Ob tem pripominjamo, da je med predvidenimi projekti v občini Ruše tudi
 nadgradnja železniške proge Maribor-Prevalje in sicer v obdobju od leta
 2024 do leta 2027.
 
+### 11. april 2022 - Občino Ruše smo opozorili na napako v zapisniku
+
+Občina Ruše in svetnike Občinskega sveta Občine Ruše smo 
+ppozorili, da se **tekst amandmaja** k proračunu Občine Ruše za leto 2022,
+**v zapisniku ne glasi točno tako, kot ga je prebrala ga. županja** na
+20\. redni seji Občinskega sveta Občine Ruše pred glasovanjem.
+
+Pred sprejemom zapisnika 20. redne seje je **potrebno popraviti tekst**
+amandmaja (8. sklep). 
+
+Ker je tema o obvoznici zelo pereča smo opozorili
+go. županjo in občinsko upravo, da to nemudoma stori. Izredno pomembno
+je, da je občinska uprava posebej natančna pri formulaciji in ne 
+**poskuša post festum** spreminjati besedila sklepov in s 
+tem **izkrivljati njihovega pomena**.
+
+Tekst amandmaja, ki ga je prebrala ga. županja Urška Repolusk pred glasovanjem
+na 20. seji Občinskega sveta Občine Ruše (sklep št. 8):
+
+```
+Občinski svet Občine Ruše prepoveduje vse nadaljne postopke in črpanje 
+proračunskih sredstev iz postavke 421 (izdelava prostorskih aktov/področje 
+prostorskega planiranja), v zvezi z novo traso Ruške obvoznice. Aktivnosti se 
+lahko nadaljujejo le na podlagi posebnega soglasja Občinskega sveta Občine 
+Ruše. Županja mora na naslednjo sejo Občinskega sveta Občine Ruše uvrstiti točko 
+dnevnega reda, o aktivnostih in finančnih posledicah za proračun od 1.1.2019 
+dalje, v zvezi z načrtovanjem vseh tras Ruške obvoznice. Sredstva iz omenjene 
+postavke, pa se lahko izrecno uporabijo za drugo prostorsko planiranje in 
+izdelavo prostorskih aktov, ki z obvoznico niso povezani. 
+```
+
+Primerjava besedila:
+ - Levo: zapisnik - napačna formulacija!!!.
+ - Desno: sprejeto besedilo, ki ga prebere ga. županja pred glasovanjem.
+
+[![PrimerjavaAmandmaja](./pdf2/Priloga-PrimerjavaSklepZapisnik-Thumbnail.png)](./pdf2/Priloga-PrimerjavaSklepZapisnik.png)
+
+Sklep napačno formuliran v zapisniku. Izgubi se dejanski pomen amandmaja.
+
+[![ZapisnikAmandma](./pdf2/Priloga-SklepZapisnik-Thumbnail.png)](./pdf2/Priloga-SklepZapisnik.png)
+
+Ga. županja prevere amandma na 20. seji Občinskega sveta Občine Ruše (1h:34m:20s).
+
+[![PrebereAmandma](./pdf2/Priloga-PrebereAmandma.png)](https://youtu.be/GFBS_ga7ZNs?t=5725)
+
+
+### 12. april 2022 - Občina Ruše se spreneveda, da ne more ustaviti postopka OPN-SD2
+
+Takšno floskulo so na občini zapisali v pojasnilo zakaj, kljub <u>izrecni prepovedi</u> s strani
+Občinskega sveta Občine Ruše, še vedno nadaljujejo z umeščanjem nove trase obvoznice v krovni 
+okoljski načrt Občine Ruše (OPN SD2).
+
+**Seveda se lahko vsak upravni postopek v trenutku ustavi, če se to hoče!**
+
+**Lahko se tudi izvzame pobuda 171, ki je namenjena novi trasi obvoznice!**
+
+V več izjavah za javnost smo opozorili, da bo ga. županja na sebe prevzela sum kršenja
+veljavnih pravil v Občini Ruše, če bo v presojo na Ministrstvo za okolje in prostor vključila 
+tudi novo traso zahodnega dela obvoznice Ruše. 
+
+Sum kršenja veljavnih pravil v Občini Ruše bo ga. županja prevzela na sebe tudi, če bo dala
+krovni prostorski načrt (OPN SD2) v potrditev svetnikom Občinskega sveta Občine Ruše.
+
+[![Postopki](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.png)](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.pdf)
+
+
+### 12. april 2022 - Občina Ruše predloži stroške
+
+Stroški za obvoznico. Manjkata vsaj dve postavki, za študiji, 
+ki sta pripisani. Občina ju je pozabila dodati.
+
+- CPVO ali okoljsko poročilo, ki ga je Občina Ruše naročila v januarju 2022 po prejemu odločbe
+  Ministrstva za okolje in prostor 4. januarja 2022.
+- Študija obremenitve s hrupom in predlog protihrupne zaščite št. 2020-19  / PHZ.
+
+[![Stroski](./pdf2/Priloga-ObcinaRusePostavkeObvoznica.png)](./pdf2/Priloga-ObcinaRusePostavkeObvoznica.pdf)
+
 <br/>
 <br/>
 
