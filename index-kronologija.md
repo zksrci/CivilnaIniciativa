@@ -284,7 +284,7 @@ nadgradnja železniške proge Maribor-Prevalje in sicer v obdobju od leta
 ### 11. april 2022 - Občino Ruše smo opozorili na napako v zapisniku
 
 Občina Ruše in svetnike Občinskega sveta Občine Ruše smo 
-ppozorili, da se **tekst amandmaja** k proračunu Občine Ruše za leto 2022,
+opozorili, da se **tekst amandmaja** k proračunu Občine Ruše za leto 2022,
 **v zapisniku ne glasi točno tako, kot ga je prebrala ga. županja** na
 20\. redni seji Občinskega sveta Občine Ruše pred glasovanjem.
 
@@ -300,6 +300,19 @@ tem **izkrivljati njihovega pomena**.
 Tekst amandmaja, ki ga je prebrala ga. županja Urška Repolusk pred glasovanjem
 na 20. seji Občinskega sveta Občine Ruše (sklep št. 8):
 
+<blockquote>
+Občinski svet Občine Ruše prepoveduje vse nadaljne postopke in črpanje 
+proračunskih sredstev iz postavke 421 (izdelava prostorskih aktov/področje 
+prostorskega planiranja), v zvezi z novo traso Ruške obvoznice. Aktivnosti se 
+lahko nadaljujejo le na podlagi posebnega soglasja Občinskega sveta Občine 
+Ruše. Županja mora na naslednjo sejo Občinskega sveta Občine Ruše uvrstiti točko 
+dnevnega reda, o aktivnostih in finančnih posledicah za proračun od 1.1.2019 
+dalje, v zvezi z načrtovanjem vseh tras Ruške obvoznice. Sredstva iz omenjene 
+postavke, pa se lahko izrecno uporabijo za drugo prostorsko planiranje in 
+izdelavo prostorskih aktov, ki z obvoznico niso povezani. 
+</blockquote>
+
+<!--
 ```
 Občinski svet Občine Ruše prepoveduje vse nadaljne postopke in črpanje 
 proračunskih sredstev iz postavke 421 (izdelava prostorskih aktov/področje 
@@ -311,6 +324,7 @@ dalje, v zvezi z načrtovanjem vseh tras Ruške obvoznice. Sredstva iz omenjene
 postavke, pa se lahko izrecno uporabijo za drugo prostorsko planiranje in 
 izdelavo prostorskih aktov, ki z obvoznico niso povezani. 
 ```
+-->
 
 Primerjava besedila:
  - Levo: zapisnik - napačna formulacija!!!.
@@ -322,7 +336,7 @@ Sklep napačno formuliran v zapisniku. Izgubi se dejanski pomen amandmaja.
 
 [![ZapisnikAmandma](./pdf2/Priloga-SklepZapisnik-Thumbnail.png)](./pdf2/Priloga-SklepZapisnik.png)
 
-Ga. županja prevere amandma na 20. seji Občinskega sveta Občine Ruše (1h:34m:20s).
+Ga. županja prebere amandma na 20. seji Občinskega sveta Občine Ruše (1h:34m:20s).
 
 [![PrebereAmandma](./pdf2/Priloga-PrebereAmandma.png)](https://youtu.be/GFBS_ga7ZNs?t=5725)
 
@@ -331,11 +345,11 @@ Ga. županja prevere amandma na 20. seji Občinskega sveta Občine Ruše (1h:34m
 
 Takšno floskulo so na občini zapisali v pojasnilo zakaj, kljub <u>izrecni prepovedi</u> s strani
 Občinskega sveta Občine Ruše, še vedno nadaljujejo z umeščanjem nove trase obvoznice v krovni 
-okoljski načrt Občine Ruše (OPN SD2).
+prostorski načrt Občine Ruše (OPN SD2).
 
 **Seveda se lahko vsak upravni postopek v trenutku ustavi, če se to hoče!**
 
-**Lahko se tudi izvzame pobuda 171, ki je namenjena novi trasi obvoznice!**
+**Lahko se tudi izvzame pobuda št. 171, ki je namenjena novi trasi obvoznice!**
 
 V več izjavah za javnost smo opozorili, da bo ga. županja na sebe prevzela sum kršenja
 veljavnih pravil v Občini Ruše, če bo v presojo na Ministrstvo za okolje in prostor vključila 
