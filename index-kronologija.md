@@ -339,19 +339,19 @@ prostorski načrt Občine Ruše (OPN SD2).
 
 V več izjavah za javnost smo opozorili, da bo ga. županja na sebe prevzela sum kršenja
 veljavnih pravil v Občini Ruše, če bo v kakršnokoli presojo na Ministrstvo za okolje in 
-prostor vključila tudi novo traso zahodnega dela obvoznice Ruše. 
+prostor vključila tudi novo (prestavljeno) traso zahodnega dela obvoznice Ruše. 
 
 Sum kršenja veljavnih pravil v Občini Ruše bo ga. županja prevzela na sebe tudi, če bo dala
-krovni prostorski načrt (OPN SD2) z vključeno novo traso obvoznice v potrditev svetnikom 
-Občinskega sveta Občine Ruše.
+krovni prostorski načrt (OPN SD2) z vključeno novo (prestavljeno) traso obvoznice v potrditev 
+svetnikom Občinskega sveta Občine Ruše.
 
 Kot smo že zapisali v izjavi za javnost je po našem mnenju samo ga. županja Urška Repolusk 
 odgovorna za 3 leta in 4 mesece časovnega zaostanka, ki ga je zaradi priprave načrtov za 
 novo traso zapravila. 
 
 Nikakor pa ne more biti "časovni zaostanek" **razlog za pritisk na svetnike**
-Občinskega sveta Občine Ruše, da sprejmejo krovni prostorski načrt OPN-SD2 skupaj z traso 
-nove obvoznice.
+Občinskega sveta Občine Ruše, da sprejmejo krovni prostorski načrt OPN-SD2 skupaj z novo
+(prestavljeno) traso zahodnega dela obvoznice Ruše.
 
 [![Postopki](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.png)](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.pdf)
 
