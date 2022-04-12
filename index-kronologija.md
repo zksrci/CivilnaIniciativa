@@ -345,6 +345,14 @@ Sum kršenja veljavnih pravil v Občini Ruše bo ga. županja prevzela na sebe t
 krovni prostorski načrt (OPN SD2) z vključeno novo traso obvoznice v potrditev svetnikom 
 Občinskega sveta Občine Ruše.
 
+Kot smo že zapisali v izjavi za javnost je po našem mnenju samo ga. županja Urška Repolusk 
+odgovorna za 3 leta in 4 mesece časovnega zaostanka, ki ga je zaradi priprave načrtov za 
+novo traso zapravila. 
+
+Nikakor pa ne more biti "časovni zaostanek" **razlog za pritisk na svetnike**
+Občinskega sveta Občine Ruše, da sprejmejo krovni prostorski načrt OPN-SD2 skupaj z traso 
+nove obvoznice.
+
 [![Postopki](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.png)](./pdf2/Priloga-ObcinaNeMoreUstavitiPostopkov.pdf)
 
 
