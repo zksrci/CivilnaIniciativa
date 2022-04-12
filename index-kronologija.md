@@ -338,8 +338,8 @@ prostorski načrt Občine Ruše (OPN SD2).
 **Lahko se tudi izvzame pobuda št. 171, ki je namenjena novi trasi obvoznice!**
 
 V več izjavah za javnost smo opozorili, da bo ga. županja na sebe prevzela sum kršenja
-veljavnih pravil v Občini Ruše, če bo v presojo na Ministrstvo za okolje in prostor vključila 
-tudi novo traso zahodnega dela obvoznice Ruše. 
+veljavnih pravil v Občini Ruše, če bo v kakršnokoli presojo na Ministrstvo za okolje in 
+prostor vključila tudi novo traso zahodnega dela obvoznice Ruše. 
 
 Sum kršenja veljavnih pravil v Občini Ruše bo ga. županja prevzela na sebe tudi, če bo dala
 krovni prostorski načrt (OPN SD2) z vključeno novo traso obvoznice v potrditev svetnikom 
