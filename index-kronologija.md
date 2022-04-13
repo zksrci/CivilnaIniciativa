@@ -377,9 +377,7 @@ načrtu (400 metrov od krožišča pri viaduktu) so projektanti načrtovali 0,05
 (5,7 centimetra) višinske razlike. 
 
 Ni se upoštevala niti razdalja med osjo skrajnega tira do najbližje točke cestišča,
-ki **znaša 8 metrov**. Po celotni trasi so upoštevali odmik **cca 6 metrov**. Projektant
-sicer meri razdaljo med cesto in železnico od osi železniške proge in ne od osi 
-skrajnega tira.
+ki **znaša 8 metrov**. Po celotni trasi so upoštevali odmik **cca 6 metrov**. 
 
 Zakaj tega niso storili nam zaenkrat še ni znano. Dejstvo pa je: če bi se upoštevala
 vsa zakonska določila bi se ta del ceste zelo podražil. Posledično bi morali 
