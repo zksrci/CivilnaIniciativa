@@ -371,9 +371,9 @@ ki sta pripisani. Občina ju je pozabila dodati.
 ### 13. april 2022 - Projektanti niso upoštevali zakonskih določil
 
 Ugotovili smo, da projektanti nove (prestavljene) trase obvoznice **niso upoštevali 
-zakonskih določil** glede **višinske razlike med cestiščem in zgornjim robom tirnic**. 
-Minimalna višinska razlika je **1 meter**. Na mestu, ki je prikazan na spodnjem načrtu
-(400 metrov od krožišča pri viaduktu) so projektanti načrtovali 0,057 metra 
+zakonskih določil** glede **višinske razlike med cestiščem in zgornjim robom železniških
+tirnic**. Minimalna višinska razlika je **1 meter**. Na mestu, ki je prikazan na spodnjem 
+načrtu (400 metrov od krožišča pri viaduktu) so projektanti načrtovali 0,057 metra 
 (5,7 centimetra) višinske razlike.
 
 Ni se upoštevala niti razdalja med osjo skrajnega tira do najbližje točke cestišča,
