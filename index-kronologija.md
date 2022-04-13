@@ -390,7 +390,7 @@ Zakon o varnosti v železniškem prometu (ZVZeIP-1), 28. člen:
 
 Izsek načrta Občine Ruše za prestavljeno traso obvoznice ob železnici:
 
-[![ZeleznicaNacrt](./pdf2/Priloga-NacrtiZeleznica-03-Thumbnail.png)](./pdf2/Priloga-NacrtiZeleznica-03.pdf)
+[![ZeleznicaNacrt](./pdf2/Priloga-NacrtiZeleznica-03-Thumbnail.png)](./pdf2/Priloga-NacrtiZeleznica-03.png)
 
 
 <br/>
