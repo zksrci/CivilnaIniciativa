@@ -384,7 +384,7 @@ skrajnega tira.
 Zakaj tega niso storili nam zaenkrat še ni znano. Dejstvo pa je: če bi se upoštevala
 vsa zakonska določila bi se ta del ceste zelo podražil. Posledično bi morali 
 **cesto poglobiti** in **zelo razširiti koridor trase**. Cela prva linija 
-stanovanjksih in poslovnih hiš (9 - devet) pa bi se najbrž rušila. 
+stanovanjskih in poslovnih hiš (9 - devet) pa bi se najbrž rušila. 
 
 **Ali bi bila zaradi tega vprašljiva tudi ekonomska primerjava z obstoječo traso 
 in posledično izbira najbolj primerne trase?**
