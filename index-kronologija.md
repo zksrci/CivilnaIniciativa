@@ -367,6 +367,7 @@ ki sta pripisani. Občina ju je pozabila dodati.
 
 [![Stroski](./pdf2/Priloga-ObcinaRusePostavkeObvoznica.png)](./pdf2/Priloga-ObcinaRusePostavkeObvoznica.pdf)
 
+
 ### 13. april 2022 - Projektanti niso upoštevali zakonskih določil
 
 Ugotovili smo, da projektanti nove (prestavljene) trase obvoznice **niso upoštevali 
@@ -375,7 +376,8 @@ Minimalna višinska razlika je **1 meter**. Na tem mestu so projektanti načrtov
 0,057 metra (5,7 centimetra) višinske razlike.
 
 Ni se upoštevala niti razdalja med osjo skrajnega tira do najbližje točke cestišča,
-ki znaša 8 metrov. Po celotni trasi so upoštevali odmik cca 6 metrov.
+ki znaša 8 metrov. Po celotni trasi so upoštevali odmik cca 6 metrov. Projektant
+sicer meri razdaljo od osi železniške proge in ne od osi skrajnega tira.
 
 Zakaj tega niso storili nam zaenkrat še ni znano. Dejstvo pa je, da če bi se upoštevala
 vsa zakonska določila bi se ta del ceste zelo podražil. Ali bi bila vprašljiva tudi 
