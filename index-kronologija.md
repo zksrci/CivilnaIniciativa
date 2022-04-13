@@ -376,13 +376,16 @@ Minimalna višinska razlika je **1 meter**. Na tem mestu so projektanti načrtov
 0,057 metra (5,7 centimetra) višinske razlike.
 
 Ni se upoštevala niti razdalja med osjo skrajnega tira do najbližje točke cestišča,
-ki znaša 8 metrov. Po celotni trasi so upoštevali odmik cca 6 metrov. Projektant
+ki **znaša 8 metrov**. Po celotni trasi so upoštevali odmik **cca 6 metrov**. Projektant
 sicer meri razdaljo od osi železniške proge in ne od osi skrajnega tira.
 
-Zakaj tega niso storili nam zaenkrat še ni znano. Dejstvo pa je, da če bi se upoštevala
-vsa zakonska določila bi se ta del ceste zelo podražil. Ali bi bila vprašljiva tudi 
-ekonomska primerjava z obstoječo traso in posledično njihova izbira trase?
+Zakaj tega niso storili nam zaenkrat še ni znano. Dejstvo pa je: če bi se upoštevala
+vsa zakonska določila bi se ta del ceste zelo podražil. Posledično bi morali **zelo
+razširiti koridor trase**. Cela prva linija stanovanjksih in poslovnih hiš (9 - devet) 
+pa bi se najbrž rušilo. 
 
+**Ali bi bila zaradi tega vprašljiva tudi ekonomska primerjava z obstoječo traso 
+in posledično izbira najbolj primerne trase?**
 
 Zakon o varnosti v železniškem prometu (ZVZeIP-1), 28. člen:
 
