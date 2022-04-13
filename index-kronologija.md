@@ -367,6 +367,30 @@ ki sta pripisani. Občina ju je pozabila dodati.
 
 [![Stroski](./pdf2/Priloga-ObcinaRusePostavkeObvoznica.png)](./pdf2/Priloga-ObcinaRusePostavkeObvoznica.pdf)
 
+### 13. april 2022 - Projektanti niso upoštevali zakonskih določil
+
+Ugotovili smo, da projektanti nove (prestavljene) trase obvoznice **niso upoštevali 
+zakonskih določil** glede **višinske razlike med cestiščem in zgornjim robom tirnic**. 
+Minimalna višinska razlika je **1 meter**. Na tem mestu so projektanti načrtovali
+0,057 metra (5,7 centimetra) višinske razlike.
+
+Ni se upoštevala niti razdalja med osjo skrajnega tira do najbližje točke cestišča,
+ki znaša 8 metrov. Po celotni trasi so upoštevali odmik cca 6 metrov.
+
+Zakaj tega niso storili nam zaenkrat še ni znano. Dejstvo pa je, da če bi se upoštevala
+vsa zakonska določila bi se ta del ceste zelo podražil. Ali bi bila vprašljiva tudi 
+ekonomska primerjava z obstoječo traso in posledično njihova izbira trase?
+
+
+Zakon o varnosti v železniškem prometu (ZVZeIP-1), 28. člen:
+
+[![ZeleznicaZakon](./pdf2/Priloga-ZakonOZelezniskemPrometu-28clen.png)](./pdf2/Priloga-ZakonOZelezniskemPrometu-28clen.pdf)
+
+Izsek načrta Občine Ruše za prestavljeno traso obvoznice ob železnici:
+
+[![ZeleznicaNacrt](./pdf2/Priloga-NacrtiZeleznica-03-Thumbnail.png)](./pdf2/Priloga-NacrtiZeleznica-03.pdf)
+
+
 <br/>
 <br/>
 
