@@ -372,8 +372,9 @@ ki sta pripisani. Občina ju je pozabila dodati.
 
 Ugotovili smo, da projektanti nove (prestavljene) trase obvoznice **niso upoštevali 
 zakonskih določil** glede **višinske razlike med cestiščem in zgornjim robom tirnic**. 
-Minimalna višinska razlika je **1 meter**. Na tem mestu so projektanti načrtovali
-0,057 metra (5,7 centimetra) višinske razlike.
+Minimalna višinska razlika je **1 meter**. Na mestu, ki je prikazan na spodnjem načrtu
+(400 metrov od krožišča pri viaduktu) so projektanti načrtovali 0,057 metra 
+(5,7 centimetra) višinske razlike.
 
 Ni se upoštevala niti razdalja med osjo skrajnega tira do najbližje točke cestišča,
 ki **znaša 8 metrov**. Po celotni trasi so upoštevali odmik **cca 6 metrov**. Projektant
