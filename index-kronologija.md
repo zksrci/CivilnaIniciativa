@@ -374,7 +374,7 @@ Ugotovili smo, da projektanti nove (prestavljene) trase obvoznice **niso upošte
 zakonskih določil** glede **višinske razlike med cestiščem in zgornjim robom železniških
 tirnic**. Minimalna višinska razlika je **1 meter**. Na mestu, ki je prikazan na spodnjem 
 načrtu (400 metrov od krožišča pri viaduktu) so projektanti načrtovali 0,057 metra 
-(5,7 centimetra) višinske razlike.
+(5,7 centimetra) višinske razlike. 
 
 Ni se upoštevala niti razdalja med osjo skrajnega tira do najbližje točke cestišča,
 ki **znaša 8 metrov**. Po celotni trasi so upoštevali odmik **cca 6 metrov**. Projektant
@@ -393,7 +393,8 @@ Zakon o varnosti v železniškem prometu (ZVZeIP-1), 28. člen:
 
 [![ZeleznicaZakon](./pdf2/Priloga-ZakonOZelezniskemPrometu-28clen.png)](./pdf2/Priloga-ZakonOZelezniskemPrometu-28clen.pdf)
 
-Izsek načrta Občine Ruše za prestavljeno traso obvoznice ob železnici:
+Izsek načrta Občine Ruše za prestavljeno traso obvoznice ob železnici.
+Na sliko izseka načrta smo laično vrisali odmik in razliko v višini.
 
 [![ZeleznicaNacrt](./pdf2/Priloga-NacrtiZeleznica-03-Thumbnail.png)](./pdf2/Priloga-NacrtiZeleznica-03.png)
 
