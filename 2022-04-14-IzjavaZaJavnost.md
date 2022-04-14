@@ -3,7 +3,6 @@
 #### Zaskrbljeni krajani Smolnika in Ruš
 #### Ad Hoc Civilna Iniciativa
 
-[Kazalo](index.md)
 
 # Izjava za javnost - Zaušnica samovšečnosti in arogantnosti?
 
@@ -39,6 +38,7 @@ krovni prostorski načrt (OPN). Na dveh priloženih slikah, ki sta izseka
 načrtov veljavnega krovnega prostorskega načrta Občine Ruše (OPN) je trasa 
 tudi lepo vidna.
 <br/>
+<br/>
 
 ![Slika1](./pic/Priloga-ObvoznicaOpn.png)
 
@@ -54,9 +54,9 @@ Označili smo traso.
 <br/>
 	
 2. Svetniki Občinskega sveta Občine Ruše so sprejetjem sklepa na 20. redni seji 
-Občinskega sveta, ki se pomensko glasi: <br/> <center>
+Občinskega sveta, ki se pomensko glasi: <br/><br/> 
 **“OSOR prepoveduje vse nadaljne postopke ....**  <br/>
-**v zvezi z novo traso Ruške obvoznice. ....”** </center> <br/>
+**v zvezi z novo traso Ruške obvoznice. ....”** <br/><br/> 
 ge. županji Urški Repolusk dali nedvoumno in jasno sporočilo, da **ne želijo, da se 
 občinska uprava z novo (prestavljeno) traso zahodnega dela obviznice še naprej 
 ukvarja in zapravlja denar.**
@@ -83,11 +83,7 @@ krovnega prostorskega načrta (OPN), ki ga lahko vsak pogleda na sledeči poveza
 	
 Spoštovana ga. županja Urška Repolusk!
 
-<center>
-
 ## Tokrat ne rabite zlivati gnojnice na druge, ker ste imeli sami v rokah škarje in platno!
-
-</center>
 
 Moramo pa povedati, da nas je te dni spreletel srh, ko smo zasledili, da oseba na 
 najvišji funkciji v naši občini citira izrek vojnega zločinca.
@@ -102,6 +98,6 @@ Jasmina Vrečko Rupnik, Gregor Vrečko
 
 <br/>
 	
-[Kazalo](index.md)
+[Kazalo](index-izjave-za-javnost.md)
 
 ![GIT](./pic/status_work_green_64x64.png)
