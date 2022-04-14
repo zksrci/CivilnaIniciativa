@@ -10,8 +10,7 @@ Ad Hoc Civilna Iniciativa
 
 
 ### Izjava za javnost (12) - 14. april 2022
-<!-- [Zaušnica samovšečnosti in arogantnosti?](./i.md)  -->
-**Zaušnica samovšečnosti in arogantnosti?**
+[Zaušnica samovšečnosti in arogantnosti?](./2022-04-07-IzjavaZaJavnost.md) 
 <br/>
 <br/>
 ![PDF](./pic/pdf16.png)
