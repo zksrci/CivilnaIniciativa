@@ -38,22 +38,21 @@ opravljene recenzije že izbrana varianta, katere os trase je že vključena v
 krovni prostorski načrt (OPN). Na dveh priloženih slikah, ki sta izseka 
 načrtov veljavnega krovnega prostorskega načrta Občine Ruše (OPN) je trasa 
 tudi lepo vidna.
+<br/>
 
-<center>
-	
 ![Slika1](./pic/Priloga-ObvoznicaOpn.png)
 
 Slika je izsek načrta iz veljavnih prostorskih aktov občine Ruše. Označili smo traso.
-
-
+<br/>
+<br/>
+	
 ![Slika2](./pic/Priloga-ObvoznicaOpn2.png)
-
 
 Slika je izsek dveh načrtov iz veljavnih prostorskih aktov občine Ruše (OPN).
 Označili smo traso.
-
-</center>
-
+<br/>
+<br/>
+	
 2. Svetniki Občinskega sveta Občine Ruše so sprejetjem sklepa na 20. redni seji 
 Občinskega sveta, ki se pomensko glasi: <br/> <center>
 **“OSOR prepoveduje vse nadaljne postopke ....**  <br/>
