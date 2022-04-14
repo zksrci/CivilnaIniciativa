@@ -58,7 +58,7 @@ Občinskega sveta, ki se pomensko glasi: <br/><br/>
 **“OSOR prepoveduje vse nadaljne postopke ....**  <br/>
 **v zvezi z <u>novo</u> traso Ruške obvoznice. ....”** <br/><br/> 
 ge. županji Urški Repolusk dali nedvoumno in jasno sporočilo, da **ne želijo, da se 
-občinska uprava z novo (prestavljeno) traso zahodnega dela obviznice še naprej 
+občinska uprava z novo (prestavljeno) traso zahodnega dela obvoznice še naprej 
 ukvarja in zapravlja denar.**
 
 3. Ob tako jasni formulaciji zgoraj navedenega sklepa iz 20. redne seje ni 
