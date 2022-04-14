@@ -89,8 +89,7 @@ Moramo pa povedati, da nas je te dni spreletel srh, ko smo zasledili, da oseba n
 najvišji funkciji v naši občini citira izrek vojnega zločinca.
 <br/><br/><br/>
 Ruše, 14. april 2022 <br/><br/>
-V imenu civilne iniciative 
-
+V imenu civilne iniciative<br/> 
 Jasmina Vrečko Rupnik, Gregor Vrečko
 
 <br/>
