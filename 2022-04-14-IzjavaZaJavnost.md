@@ -53,10 +53,10 @@ Označili smo traso.
 <br/>
 <br/>
 	
-2. Svetniki Občinskega sveta Občine Ruše so sprejetjem sklepa na 20. redni seji 
+2. Svetniki Občinskega sveta Občine Ruše so s sprejetjem sklepa na 20. redni seji 
 Občinskega sveta, ki se pomensko glasi: <br/><br/> 
 **“OSOR prepoveduje vse nadaljne postopke ....**  <br/>
-**v zvezi z novo traso Ruške obvoznice. ....”** <br/><br/> 
+**v zvezi z <u>novo</u> traso Ruške obvoznice. ....”** <br/><br/> 
 ge. županji Urški Repolusk dali nedvoumno in jasno sporočilo, da **ne želijo, da se 
 občinska uprava z novo (prestavljeno) traso zahodnega dela obviznice še naprej 
 ukvarja in zapravlja denar.**
