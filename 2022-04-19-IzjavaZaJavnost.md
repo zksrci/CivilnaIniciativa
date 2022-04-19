@@ -29,16 +29,16 @@ na stališču, da krajani še nismo upravičeni izvedeti resnice, saj postopek, 
 vodi občinska uprava to v tem trenutku menda še ne predvideva.
 
 
-**Ob pogledu na številke, nam pa sploh ni jasno, zakaj županjo Ruš ta trasa tako zelo moti**.
-Na cesti iz Lovrenca na Pohorju pelje **1000 vozil na dan**, kar pomeni priblićno približno **42 
-avtomobilov na uro** oziroma **0,7 avtomobila na minuto**. **Ves ta promet pa se deli še na dve cesti**.
+**Ob pogledu na številke nam pa sploh ni jasno, zakaj županjo Ruš ta trasa tako zelo moti**.
+Na cesti iz Lovrenca na Pohorju pelje **1000 vozil na dan**, kar pomeni približno **42 
+avtomobilov na uro** oziroma **0,7 avtomobila na minuto**. **Ves ta promet pa se prepolovi na dve cesti**.
 Na Falsko cesto in na planiran odsek zahodnega dela obvoznice.
 
 Na spletu si lahko vsak pogleda podatke 
 [Prometnih obremenitev od leta 1997 dalje](https://podatki.gov.si/dataset/pldp-karte-prometnih-obremenitev).
 
 Na zemljevidu prometnih obremenitev za leto 2020 je lepo prikazana obremenitev
-ceste Lovrenc na Pohorju - Ruše. Na merilnem mestu Fala (08x4) je vidno, da se
+ceste Lovrenc na Pohorju - Ruše. Na merilnem mestu Fala je vidno, da se
 dnevno v povprečju po tej cesti pelje **1000 vozil**.
 
 <br/>
@@ -84,10 +84,10 @@ dokaj podoben od leta 1997 do leta 2020.
 
 ### Promet iz smeri Lovrenca na Pohorju je minimalen
 
-Promet iz smeri Lovrenca na Pohorju je cca 1000 avtomobilov / dan. Pri tem je potrebno
-povedati, da je bilo to izmerjeno nazadnje leta 2008. Glede na to, da so meritve v drugih dveh
-smereh pokazale onstanten promet je najbrž to tudi dokaj dejanska številka za smer
-iz Lovrenca na Pohorju.
+Promet iz smeri Lovrenca na Pohorju je cca 1000 avtomobilov / dan.
+Pri tem je potrebno povedati, da je bilo to izmerjeno nazadnje leta 2008. 
+Glede na to, da so meritve v drugih dveh smereh pokazale konstanten promet 
+je najbrž to tudi dokaj dejanska številka za smer iz Lovrenca na Pohorju.
 
 Če preračunamo 1000 avtomobilov na dan, ki se peljejo na tej relaciji:
 
@@ -100,7 +100,7 @@ iz Lovrenca na Pohorju.
 Vsi podatki so povprečno letno število vozil na dan (PLDP - Povprečni Letni Dnevni Promet).
 Tovorna vozila so kategorizirana po teži:
 
-- Sum      - Skupni promet
+- Skupaj   - Skupni promet
 - Mot.     - Motorji
 - Osebna   - Osebna vozila
 - L.tov.   - Lahka tovorna vozila (< 3,5t)
@@ -224,7 +224,8 @@ Tovorna vozila so kategorizirana po teži:
 | 1998 | 10000   |   6300   | 1400    | 
 | 1997 | 10020   |          |         | 
    
-   
+<br/><br/>
+	   
 ## In zakaj se torej županja ga. Urška Repolusk boji tega prometa?
 
 ## Nam to nikakor ni jasno!
