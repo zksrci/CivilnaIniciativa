@@ -1,35 +1,37 @@
-### Zakaj se županja tako boji prometa mino njene hiše?
+### Zakaj se županja tako boji prometa mimo njene hiše?
 
 #### Zaskrbljeni krajani Smolnika in Ruš
 #### Ad Hoc Civilna Iniciativa
 
 
-# Izjava za javnost - Zakaj se županja tako boji prometa mino njene hiše?
+# Izjava za javnost - Zakaj se županja tako boji prometa mimo njene hiše?
 
 
 Danes smo preverili koliko je dejansko prometa na relaciji Lovrenc na Pohorju - Ruše.
 Za primerjavo smo naredili grafe še za smer Ruše - Maribor in Ruše - Selnica.
 
-Kot pokažejo rezultati meritev prometa je na relaciji Ruše - Puščava zelo malo
-prometa napram drugima dvema smerema. **Zaradi tega smo že večkrat povedali, da obvoznica
-ni najbolj prikladno ime za to cesto**, saj količina prometa najbrž ne zadosti kriteriju
-za obvoznico. To bi lahko bila lepa krajevna cesta, s širokim
-cestiščem, dvema pločnikoma, kolesarsko stezo in drevoredom. Rušani bi lahko bili 
-zelo ponosni na njo. 
+Kot pokažejo rezultati meritev prometa je na relaciji Ruše - Puščava - Lovrenc
+na Pohorju zelo malo prometa napram drugima dvema smerema. 
+**Zaradi tega smo že večkrat povedali, da obvoznica ni najbolj prikladno ime za to cesto**, 
+saj količina prometa najbrž ne zadosti kriteriju
+za obvoznico. **To bi lahko bila lepa krajevna cesta, s širokim
+cestiščem, dvema pločnikoma, kolesarsko stezo in drevoredom**. Rušani bi lahko bili 
+zelo **ponosni** na njo. 
 
 Nikakor pa ne bi bili ponosni na **bob stezo**, ki jo planira županja Ruš namesto
-obstoječe 30 let stare trase. Ob železnico bi umestila ozko cesto z ozkim hodnikom 
-za pešce in to stanovalcem meter pred okna. Če upoštevamo še protihrupni zid, ki bi
-ga zgradili tik ob oknih bi se stanovalci na tej lokaciji počutili kot v zaporu.
+obstoječe 30 let stare trase zahodnega dela obvoznice Ruše. Ob železnico bi umestila 
+ozko cesto z ozkim hodnikom za pešce in to stanovalcem meter pred okna. Če upoštevamo 
+še protihrupni zid, ki bi ga zgradili tik ob oknih bi se stanovalci na tej 
+lokaciji počutili kot v zaporu.
 **To je ge. županji Ruš Urški Repolusk seveda čisto vseeno, saj nas doslej še ni 
 uradno obvestila, da Občina prestavlja 30 let staro traso ceste mimo naših oken**.
 Še več, kljub temu, da sedaj že vemo, da županja premika traso sama še naprej stoji 
-na stališču, da krajani še nismo upravičeni izvedeti resnice, saj postopek to v tem 
-trenutku še ne predvideva.
+na stališču, da krajani še nismo upravičeni izvedeti resnice, saj postopek, ki ga
+vodi občinska uprava to v tem trenutku menda še ne predvideva.
 
 
 **Ob pogledu na številke, nam pa sploh ni jasno, zakaj županjo Ruš ta trasa tako zelo moti**.
-Iz smeri Lovrenca na Pohorju pride **1000 vozil na dan**, kar pomeni priblićno približno **42 
+Na cesti iz Lovrenca na Pohorju pelje **1000 vozil na dan**, kar pomeni priblićno približno **42 
 avtomobilov na uro** oziroma **0,7 avtomobila na minuto**. **Ves ta promet pa se deli še na dve cesti**.
 Na Falsko cesto in na planiran odsek zahodnega dela obvoznice.
 
@@ -99,6 +101,9 @@ iz Lovrenca na Pohorju.
 Vsi podatki so povprečno letno število vozil na dan (PLDP - Povprečni Letni Dnevni Promet).
 Tovorna vozila so kategorizirana po teži:
 
+- Sum      - Skupni promet
+- Mot.     - Motorji
+- Osebna   - Osebna vozila
 - Lah.tov. - Lahka tovorna vozila (< 3,5t)
 - Sr.tov.  - Srednja tovorna vozila (3,5t - 7t)
 - Tež.tov. - Težka tovorna vozila (nad 7t)
@@ -106,7 +111,7 @@ Tovorna vozila so kategorizirana po teži:
 
 ### Ruše --- Puščava   (Merilno mesto Fala)										
 
-|      |	Skupaj |	Motorji	|  Osebna | Avtobus | Lah.tov. | Sr.tov. | Tež.tov. |	Tov.prik.	| Vlačilci |
+|      |	Sum    |	Mot.  	|  Osebna | Avtobus | L.tov. | S.tov. | T.tov. |	Tov.prik.	| Vlačilci |
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |
 | 2020 |  1000   |  9       | 908     |  12     |   44     |   13    |  6       |   3       |   5      |  
 | 2019 |  1000   |  9       | 908     |  12     |   44     |   13    |  6       |   3       |   5      | 
@@ -134,7 +139,7 @@ Tovorna vozila so kategorizirana po teži:
 
 ### Ruše --- Selnica   (Merilno mesto Selnica)										
 
-|      |	Skupaj |	Motorji	|  Osebna | Avtobus | Lah.tov. | Sr.tov. | Tež.tov. |	Tov.prik.	| Vlačilci |
+|      |	Sum    |	Motorji	|  Osebna | Avtobus | Lah.tov. | Sr.tov. | Tež.tov. |	Tov.prik.	| Vlačilci |
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |
 | 2020 | 3463    |   33     |  2955   |  10     |  245     |  40     |  87      |   14      |   79     |  
 | 2019 | 3941    |   35     |  3461   |  18     |  249     |  41     |  81      |   12      |   44     | 
@@ -162,7 +167,7 @@ Tovorna vozila so kategorizirana po teži:
                                                      
 ### Ruše --- Maribor   (Merilno mesto Laznica)										                                                            
 
-|      |	Skupaj |	Motorji	|  Osebna | Avtobus | Lah.tov. | Sr.tov. | Tež.tov. |	Tov.prik.	| Vlačilci |         
+|      |	Sum    |	Motorji	|  Osebna | Avtobus | Lah.tov. | Sr.tov. | Tež.tov. |	Tov.prik.	| Vlačilci |         
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |         
 | 2020 | 8073    |  77      | 7194   |    31    |   521    |  67     |  95      |  18       |   70     |         
 | 2019 | 9560    |  79      | 8670   |    42    |   536    |  63     |  92      |  17       |   61     |         
@@ -223,7 +228,7 @@ Tovorna vozila so kategorizirana po teži:
    
 ## In zakaj se torej županja ga. Urška Repolusk boji tega prometa?
 
-Nam to nikakor ni jasno!
+## Nam to nikakor ni jasno!
 
 
 <br/>
