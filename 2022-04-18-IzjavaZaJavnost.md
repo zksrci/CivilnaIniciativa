@@ -11,8 +11,9 @@ Danes smo preverili koliko je dejansko prometa na relaciji Lovrenc na Pohorju - 
 Za primerjavo smo naredili grafe še za smer Ruše - Maribor in Ruše - Selnica.
 
 Kot pokažejo rezultati meritev prometa je na relaciji Ruše - Puščava zelo malo
-prometa napram drugima dvema smerema. **Zaradi tega smo že večkrat rekli, da obvoznica
-ni najbolj prikladno ime za to cesto**. To bi lahko bila lepa krajevna cesta, s širokim
+prometa napram drugima dvema smerema. **Zaradi tega smo že večkrat povedali, da obvoznica
+ni najbolj prikladno ime za to cesto**, saj količina prometa najbrž ne zadosti kriteriju
+za obvoznico. To bi lahko bila lepa krajevna cesta, s širokim
 cestiščem, dvema pločnikoma, kolesarsko stezo in drevoredom. Rušani bi lahko bili 
 zelo ponosni na njo. 
 
