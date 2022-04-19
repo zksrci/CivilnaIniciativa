@@ -95,7 +95,7 @@ je najbrž to tudi dokaj dejanska številka za smer iz Lovrenca na Pohorju.
 - 42 avtomobila / uro
 - 0,7 avtomobila / minuto
 
-## Tabelarični prokaz dnevnega števila vozil
+## Tabelarični prikaz dnevnega števila vozil
 
 Vsi podatki so povprečno letno število vozil na dan (PLDP - Povprečni Letni Dnevni Promet).
 Tovorna vozila so kategorizirana po teži:
@@ -107,6 +107,10 @@ Tovorna vozila so kategorizirana po teži:
 - S.tov.    - Srednja tovorna vozila (3,5t - 7t)
 - T.tov.   - Težka tovorna vozila (nad 7t)
 - Tov.prik. - Tovorno vozilo s prikolico
+
+**Vsi podatki so prepisani iz tabel, ki jih je objavilo Ministrstvo za Infrastrukturo,
+Direkcija Republike Slovenije za infrastrukturo** na naslednji povezavi:
+[Prometne obremeniteve od leta 1997 dalje](https://podatki.gov.si/dataset/pldp-karte-prometnih-obremenitev).
 
 ### Ruše --- Puščava   (Merilno mesto Fala)										
 

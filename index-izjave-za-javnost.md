@@ -9,6 +9,15 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
+### Izjave za javnost (13) - 19. april 2022
+[Zakaj se županja tako boji prometa mimo njene hiše?](./2022-04-19-IzjavaZaJavnost.md) 
+<br/>
+<br/>
+<!-- ![PDF](./pic/pdf16.png)   -->
+<!-- [2022-04-14-IzjavaZaJavnost.pdf](./pdf/2022-04-14-IzjavaZaJavnost.pdf)	  -->
+<br/>
+<br/>
+
 ### Izjava za javnost (12) - 14. april 2022
 [Zaušnica samovšečnosti in arogantnosti?](./2022-04-14-IzjavaZaJavnost.md) 
 <br/>
