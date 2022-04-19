@@ -104,14 +104,14 @@ Tovorna vozila so kategorizirana po teži:
 - Sum      - Skupni promet
 - Mot.     - Motorji
 - Osebna   - Osebna vozila
-- Lah.tov. - Lahka tovorna vozila (< 3,5t)
-- Sr.tov.  - Srednja tovorna vozila (3,5t - 7t)
-- Tež.tov. - Težka tovorna vozila (nad 7t)
+- L.tov.   - Lahka tovorna vozila (< 3,5t)
+- S.tov.    - Srednja tovorna vozila (3,5t - 7t)
+- T.tov.   - Težka tovorna vozila (nad 7t)
 - Tov.prik. - Tovorno vozilo s prikolico
 
 ### Ruše --- Puščava   (Merilno mesto Fala)										
 
-|      |	Sum    |	Mot.  	|  Osebna | Avtobus | L.tov. | S.tov. | T.tov. |	Tov.prik.	| Vlačilci |
+| Leto | Skupaj  |	Mot.  	|  Osebna | Avtobus | L.tov. | S.tov. | T.tov. |	Tov.prik.	| Vlačilci |
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |
 | 2020 |  1000   |  9       | 908     |  12     |   44     |   13    |  6       |   3       |   5      |  
 | 2019 |  1000   |  9       | 908     |  12     |   44     |   13    |  6       |   3       |   5      | 
@@ -139,7 +139,7 @@ Tovorna vozila so kategorizirana po teži:
 
 ### Ruše --- Selnica   (Merilno mesto Selnica)										
 
-|      |	Sum    |	Motorji	|  Osebna | Avtobus | Lah.tov. | Sr.tov. | Tež.tov. |	Tov.prik.	| Vlačilci |
+| Leto | Skupaj  |	Motorji	|  Osebna | Avtobus | L.tov.   | S.tov.  | T.tov.   |	Tov.prik.	| Vlačilci |
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |
 | 2020 | 3463    |   33     |  2955   |  10     |  245     |  40     |  87      |   14      |   79     |  
 | 2019 | 3941    |   35     |  3461   |  18     |  249     |  41     |  81      |   12      |   44     | 
@@ -167,7 +167,7 @@ Tovorna vozila so kategorizirana po teži:
                                                      
 ### Ruše --- Maribor   (Merilno mesto Laznica)										                                                            
 
-|      |	Sum    |	Motorji	|  Osebna | Avtobus | Lah.tov. | Sr.tov. | Tež.tov. |	Tov.prik.	| Vlačilci |         
+| Leto | Skupaj  |	Motorji	|  Osebna | Avtobus | L.tov.   | S.tov.  | T.tov.   |	Tov.prik.	| Vlačilci |         
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |         
 | 2020 | 8073    |  77      | 7194   |    31    |   521    |  67     |  95      |  18       |   70     |         
 | 2019 | 9560    |  79      | 8670   |    42    |   536    |  63     |  92      |  17       |   61     |         
@@ -198,7 +198,7 @@ Tovorna vozila so kategorizirana po teži:
 ### Primerjava skupnega prometa na vseh treh smereh
 
 
-|      |	Maribor |	Selnica	|  Fala   |
+| Leto |	Maribor |	Selnica	|  Fala   |
 | ---: | ------: | -------: | ------: |
 | 2020 | 8073    |   3463   | 1000    | 
 | 2019 | 9560    |   3941   | 1000    | 
