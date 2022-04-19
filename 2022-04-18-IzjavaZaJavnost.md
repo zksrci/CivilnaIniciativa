@@ -17,26 +17,27 @@ za obvoznico. To bi lahko bila lepa krajevna cesta, s širokim
 cestiščem, dvema pločnikoma, kolesarsko stezo in drevoredom. Rušani bi lahko bili 
 zelo ponosni na njo. 
 
-Nikakor pa nebi bili ponosni na **bob stezo**, ki jo planira županja Ruš namesto
+Nikakor pa ne bi bili ponosni na **bob stezo**, ki jo planira županja Ruš namesto
 obstoječe 30 let stare trase. Ob železnico bi umestila ozko cesto z ozkim hodnikom 
 za pešce in to stanovalcem meter pred okna. Če upoštevamo še protihrupni zid, ki bi
 ga zgradili tik ob oknih bi se stanovalci na tej lokaciji počutili kot v zaporu.
 **To je ge. županji Ruš Urški Repolusk seveda čisto vseeno, saj nas doslej še ni 
 uradno obvestila, da Občina prestavlja 30 let staro traso ceste mimo naših oken**.
-Še več, kljub temu, da sedaj to že vemo županja stoji na stališču, da še nismo
-upravičeni izvedeti resnice, saj postopek to v tem trenutku še ne predvideva.
+Še več, kljub temu, da sedaj že vemo, da županja premika traso sama še naprej stoji 
+na stališču, da krajani še nismo upravičeni izvedeti resnice, saj postopek to v tem 
+trenutku še ne predvideva.
 
 
-Ob pogledu na številke, nam pa sploh ni jasno, zakaj županjo Ruš ta trasa tako zelo moti.
-Iz smeri Lovrenca na Pohorju pride 1000 vozil na, kar dan pomeni priblićno približno 42 
-avtomobilov na uro oz. 0,7 avtomobila na minuto. **Ves ta promet pa se deli še na dve cesti**.
-Na Falso cesto in na planiran odsek zahodnega dela obvoznice.
+**Ob pogledu na številke, nam pa sploh ni jasno, zakaj županjo Ruš ta trasa tako zelo moti**.
+Iz smeri Lovrenca na Pohorju pride **1000 vozil na dan**, kar pomeni priblićno približno **42 
+avtomobilov na uro** oziroma **0,7 avtomobila na minuto**. **Ves ta promet pa se deli še na dve cesti**.
+Na Falsko cesto in na planiran odsek zahodnega dela obvoznice.
 
 Na spletu si lahko vsak pogleda podatke 
 [Prometnih obremenitev od leta 1997 dalje](https://podatki.gov.si/dataset/pldp-karte-prometnih-obremenitev).
 
 Na zemljevidu prometnih obremenitev za leto 2020 je lepo prikazana obremenitev
-ceste Lovrenc na Pohorju - Ruše. Na mreilnem mestu Fala (08x4) je vidno, da se
+ceste Lovrenc na Pohorju - Ruše. Na merilnem mestu Fala (08x4) je vidno, da se
 dnevno v povprečju po tej cesti pelje **1000 vozil**.
 
 <br/>
@@ -84,7 +85,7 @@ dokaj podoben od leta 1997 do leta 2020.
 
 Promet iz smeri Lovrenca na Pohorju je cca 1000 avtomobilov / dan. Pri tem je potrebno
 povedati, da je bilo to izmerjeno nazadnje leta 2008. Glede na to, da so meritve v drugih dveh
-smereh pokazale dokaj konstanten promet je najbrž to tudi dokaj dejanksa številka za smer
+smereh pokazale onstanten promet je najbrž to tudi dokaj dejanska številka za smer
 iz Lovrenca na Pohorju.
 
 Če preračunamo 1000 avtomobilov na dan, ki se peljejo na tej relaciji:
@@ -220,6 +221,9 @@ Tovorna vozila so kategorizirana po teži:
 | 1997 | 10020   |          |         | 
    
    
+## In zakaj se torej županja ga. Urška Repolusk boji tega prometa?
+
+Nam to nikakor ni jasno!
 
 
 <br/>
