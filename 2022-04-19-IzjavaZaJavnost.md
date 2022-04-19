@@ -56,7 +56,7 @@ Na spodnji sliki smo grafično prikazali podatke za tri smeri iz Ruš:
 2. Smer **Ruše - Selnica** (Merilno mesto Selnica) - Rumena barva.
 3. Smer **Ruše - Puščava** (Merilno mesto Fala) - Oranžna barva.
 
-Trendi so označeni z pikčasto linijo iste barve.
+Trendi so označeni s pikčasto linijo iste barve.
 
 <br/>
 
@@ -104,9 +104,9 @@ Tovorna vozila so kategorizirana po teži:
 - Mot.     - Motorji
 - Osebna   - Osebna vozila
 - L.tov.   - Lahka tovorna vozila (< 3,5t)
-- S.tov.    - Srednja tovorna vozila (3,5t - 7t)
+- S.tov.   - Srednja tovorna vozila (3,5t - 7t)
 - T.tov.   - Težka tovorna vozila (nad 7t)
-- Tov.prik. - Tovorno vozilo s prikolico
+- T.prik.  - Tovorno vozilo s prikolico
 
 **Vsi podatki so prepisani iz tabel, ki jih je objavilo Ministrstvo za Infrastrukturo,
 Direkcija Republike Slovenije za infrastrukturo** na naslednji povezavi:
@@ -114,7 +114,7 @@ Direkcija Republike Slovenije za infrastrukturo** na naslednji povezavi:
 
 ### Ruše --- Puščava   (Merilno mesto Fala)										
 
-| Leto | Skupaj  |	Mot.  	|  Osebna | Avtobus | L.tov. | S.tov. | T.tov. |	Tov.prik.	| Vlačilci |
+| Leto | Skupaj  |	Mot.  	|  Osebna | Avtobus | L.tov.   | S.tov.  | T.tov.   |	T.prik.	  | Vlačilci |
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |
 | 2020 |  1000   |  9       | 908     |  12     |   44     |   13    |  6       |   3       |   5      |  
 | 2019 |  1000   |  9       | 908     |  12     |   44     |   13    |  6       |   3       |   5      | 
@@ -142,7 +142,7 @@ Direkcija Republike Slovenije za infrastrukturo** na naslednji povezavi:
 
 ### Ruše --- Selnica   (Merilno mesto Selnica)										
 
-| Leto | Skupaj  |	Motorji	|  Osebna | Avtobus | L.tov.   | S.tov.  | T.tov.   |	Tov.prik.	| Vlačilci |
+| Leto | Skupaj  |	Motorji	|  Osebna | Avtobus | L.tov.   | S.tov.  | T.tov.   |	T.prik.	  | Vlačilci |
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |
 | 2020 | 3463    |   33     |  2955   |  10     |  245     |  40     |  87      |   14      |   79     |  
 | 2019 | 3941    |   35     |  3461   |  18     |  249     |  41     |  81      |   12      |   44     | 
@@ -170,7 +170,7 @@ Direkcija Republike Slovenije za infrastrukturo** na naslednji povezavi:
                                                      
 ### Ruše --- Maribor   (Merilno mesto Laznica)										                                                            
 
-| Leto | Skupaj  |	Motorji	|  Osebna | Avtobus | L.tov.   | S.tov.  | T.tov.   |	Tov.prik.	| Vlačilci |         
+| Leto | Skupaj  |	Motorji	|  Osebna | Avtobus | L.tov.   | S.tov.  | T.tov.   |	T.prik.	  | Vlačilci |         
 | ---: | ------: | -------: | ------: | ------: | -------: | ------: | -------: | --------: | -------: |         
 | 2020 | 8073    |  77      | 7194   |    31    |   521    |  67     |  95      |  18       |   70     |         
 | 2019 | 9560    |  79      | 8670   |    42    |   536    |  63     |  92      |  17       |   61     |         
