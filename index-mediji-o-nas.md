@@ -7,6 +7,14 @@ Ad Hoc Civilna Iniciativa
 
 # Mediji o nas
 <br/>
+	
+### 20. april 2022 -- Radio Maribor - Radijska tribuna
+[Radijska tribuna: Ruše - načrtovana obvoznica oziroma njeno umeščanje v prostor](https://www.rtvslo.si/rtv365/arhiv/174866172?s=radio)
+<br/>
+<br/>
+[![RadioMaribor](./pic/radio_interviju_small.png)](https://www.rtvslo.si/rtv365/arhiv/174866172?s=radio) 
+<br/>
+<br/>
 
 ### 11. april 2022 -- Lokalec (BKTV)
 [VIDEO: Krajani Smolnika zaradi nove obvoznice na nogah](https://lokalec.si/obcine/video-krajani-smolnika-zaradi-nove-obvoznice-na-nogah/)
