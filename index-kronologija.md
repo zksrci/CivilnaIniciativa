@@ -397,6 +397,32 @@ Na sliko izseka načrta smo laično vrisali odmik in razliko v višini.
 [![ZeleznicaNacrt](./pdf2/Priloga-NacrtiZeleznica-03-Thumbnail.png)](./pdf2/Priloga-NacrtiZeleznica-03.png)
 
 
+### 22. april 2022 - Zahodni del obvoznice Ruše ni upravičen glede na prometne standarde
+
+Po merilih količine prometa, ki veljajo v Republiki Sloveniji za **povezovalne ceste**, 
+investicija v zahodni del obvoznice Ruše ni upravičena. 
+
+V **Pravilniku o projektiranju cest** (Uradni list RS, št. 91/2005) je točno določeno, 
+da je **minimalna količina prometa za povezovalno cesto <u>vsaj 5000 vozil dnevno</u>** 
+(PLDP - povprečni letni dnevni promet). 
+
+Na relaciji med Puščavo in Rušami pa je uradni podatek Ministrstva za infrastrukturo in 
+Direkcije za infrastrukturo za leto 2020: **1000 vozil dnevno**. To je pet (5!) krat manj
+od zahtevanega prometa.
+
+Kot smo že večkrat navedli, **ime obvoznica za to cesto ni pravo ime**. To je 
+**lepa krajevna cesta** in je tudi glede na standarde, ki veljajo v 
+Republiki Sloveniji popolnoma napačno kategorizirana.
+
+Na tej povezavi je izsek iz 39. člena Pravilniku o projektiranju cest, kjer je
+zapisana minimalna količina prometa:
+
+[![PovezovalnaCesta](./pdf2/Priloga-PovezovalnaCestaPldp-Thumbnail.png)](./pdf2/Priloga-PovezovalnaCestaPldp.png)
+
+
+<!--  [![PrometFala](./pdf2/Priloga-StudijaMerilnoMestoFalaNiUpostevano-Thumbnail.png)](./pdf2/Priloga-StudijaMerilnoMestoFalaNiUpostevano.png)  -->
+
+
 <br/>
 <br/>
 
