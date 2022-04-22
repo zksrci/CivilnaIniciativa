@@ -408,14 +408,14 @@ da je **minimalna količina prometa za povezovalno cesto <u>vsaj 5000 vozil dnev
 
 Na relaciji med Puščavo in Rušami pa je uradni podatek Ministrstva za infrastrukturo in 
 Direkcije za infrastrukturo za leto 2020: **1000 vozil dnevno**. To je pet (5!) krat manj
-od zahtevanega prometa.
+od zahtevanega prometa za obvoznico (povezovalno cesto).
 
 Kot smo že večkrat navedli, **ime obvoznica za to cesto ni pravo ime**. To je 
 **lepa krajevna cesta** in je tudi glede na standarde, ki veljajo v 
-Republiki Sloveniji popolnoma napačno kategorizirana.
+Republiki Sloveniji popolnoma napačno kategorizirana. 
 
 Na tej povezavi je izsek iz 39. člena Pravilniku o projektiranju cest, kjer je
-zapisana minimalna količina prometa:
+zapisana minimalna količina prometa za povezovalno cesto (obvoznico):
 
 [![PovezovalnaCesta](./pdf2/Priloga-PovezovalnaCestaPldp-Thumbnail.png)](./pdf2/Priloga-PovezovalnaCestaPldp.png)
 
