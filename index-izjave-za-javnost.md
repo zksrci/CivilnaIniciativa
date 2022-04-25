@@ -9,6 +9,24 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
+### Izjava za javnost (14) - 25. april 2022
+[Županja pod velikim pritiskom](./2022-04-25-IzjavaZaJavnost.md) 
+<br/>
+<br/>
+![PDF](./pic/pdf16.png)
+[2022-04-25-IzjavaZaJavnost.pdf](./pdf/2022-04-25-IzjavaZaJavnost.pdf)
+<br/>
+<br/>
+
+
+<!--  ### Odprto pismo predsedniku Nove Slovenije g. Mateju Toninu (14) - 20. april 2022  -->
+<!--  [Odprto pismo Mateju Toninu](./2022-04-20-IzjavaZaJavnost.md)  -->
+<!--  ![PDF](./pic/pdf16.png)  -->
+<!--  [2022-04-20-OdprtoPismoMatejuToninu.pdf](./pdf/2022-04-20-OdprtoPismoMatejuToninu.pdf)   -->
+<!--  <br/>  -->
+<!--  <br/>  -->
+
+
 ### Izjave za javnost (13) - 19. april 2022
 [Zakaj se županja tako boji prometa mimo njene hiše?](./2022-04-19-IzjavaZaJavnost.md) 
 <br/>
@@ -17,6 +35,7 @@ Ad Hoc Civilna Iniciativa
 <!-- [2022-04-14-IzjavaZaJavnost.pdf](./pdf/2022-04-14-IzjavaZaJavnost.pdf)	  -->
 <br/>
 <br/>
+
 
 ### Izjava za javnost (12) - 14. april 2022
 [Zaušnica samovšečnosti in arogantnosti?](./2022-04-14-IzjavaZaJavnost.md) 
