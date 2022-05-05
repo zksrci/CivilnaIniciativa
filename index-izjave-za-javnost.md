@@ -8,6 +8,15 @@ Ad Hoc Civilna Iniciativa
 # Izjave za javnost
 <br/>
 
+### Izjava za javnost (15) - 5. maj 2022
+[Županjin manever se razkriva](./2022-05-05-IzjavaZaJavnost.md) 
+<br/>
+<br/>
+![PDF](./pic/pdf16.png)
+[2022-05-05-IzjavaZaJavnost.pdf](./pdf/2022-05-05-IzjavaZaJavnost.pdf)
+<br/>
+<br/>
+
 
 ### Izjava za javnost (14) - 25. april 2022
 [Županja pod velikim pritiskom](./2022-04-25-IzjavaZaJavnost.md) 

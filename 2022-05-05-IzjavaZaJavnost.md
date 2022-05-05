@@ -40,8 +40,8 @@ sledečemu členu zakona, ki bi ga morala v vsakem primeru upoštevati
 ....<br/>
 (2) Kadar se občinski podrobni prostorski načrt pripravlja za območja, 
 za katera v občinskem prostorskem načrtu njegova priprava ni bila predvidena, 
-sklep o začetku postopka priprave sprejme občinski svet.<br/>
-....<br/>
+<u>sklep o začetku postopka priprave sprejme občinski svet</u>.<br/>
+....<br/><br/>
 </center>
 <b>Takšno spremembo trase bi lahko torej udejanil samo <u>Občinski svet Občine Ruše</u>.</b>
 <br/><br/>
