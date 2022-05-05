@@ -38,9 +38,9 @@ sledečemu členu zakona, ki bi ga morala v vsakem primeru upoštevati
 57. člen<br/>
 (začetek priprave občinskega podrobnega prostorskega načrta)<br/>
 ....<br/>
-(2) Kadar se občinski podrobni prostorski načrt pripravlja za območja, 
+(2) <b>Kadar se občinski podrobni prostorski načrt pripravlja za območja, 
 za katera v občinskem prostorskem načrtu njegova priprava ni bila predvidena, 
-<u>sklep o začetku postopka priprave sprejme občinski svet</u>.<br/>
+<u>sklep o začetku postopka priprave sprejme občinski svet</u></b>.<br/>
 ....<br/><br/>
 </center>
 <b>Takšno spremembo trase bi lahko torej udejanil samo <u>Občinski svet Občine Ruše</u>.</b>
