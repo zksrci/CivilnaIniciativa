@@ -35,7 +35,7 @@ sledečemu členu zakona, ki bi ga morala v vsakem primeru upoštevati
 (Zakon o prostorskem načrtovanju (ZPNačrt) – 2007, Spremembe B – 2012):
 <br/><br/>
 <center>
-57\. člen<br/>
+57. člen<br/>
 (začetek priprave občinskega podrobnega prostorskega načrta)<br/>
 ....<br/>
 (2) Kadar se občinski podrobni prostorski načrt pripravlja za območja, 
