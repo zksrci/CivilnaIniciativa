@@ -25,10 +25,10 @@ Sama je ne misli izločiti, ker kot pravi ne bo zastopala
 interesov te iste peščice ljudi?!?!
 
 Svetniki seveda nikoli niso soglašali z umestitvijo te trase v 
-predlog OPN-SD2. **Še več, kar je še huje, niti vedeli niso, da 
-je bila obstoječa trasa prestavljena na željo neke druge peščice 
-ljudi, na način, da so se naskrivaj zamenjale parcelne številke 
-trase.**
+predlog OPN-SD2. <b>Še več, kar je še huje, niti vedeli niso, da 
+je bila obstoječa trasa prestavljena <u>na željo neke druge peščice 
+ljudi</u>, na način, da so se naskrivaj zamenjale parcelne številke 
+trase.</b>
 
 Že večkrat smo ugotavljali, da ga. županja Urška Repolusk bega 
 iz ene izjave v drugo. Iskreno upamo, da bo županja 
