@@ -43,10 +43,6 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
-
-https://365.rtvslo.si/arhiv/tele-m/174872348
-
-
 ### 12. maj 2022 -- Lokalec (BKTV)
 [7. občinske seje Občine Ruše zaradi odstotnosti svetnikov ni bilo. Vztrajajo, da niso proti občinskem prostorskemu načrtu, le proti varianti 2 zahodne obvoznice](https://lokalec.si/novice/7-obcinske-seje-obcine-ruse-zaradi-odstotnosti-svetnikov-ni-bilo-vztrajajo-da-niso-proti-obcinskem-prostorskemu-nacrtu-le-proti-varianti-2-zahodne-obvoznice/)
 <br/>
