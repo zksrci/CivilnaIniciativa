@@ -26,7 +26,7 @@ Ad Hoc Civilna Iniciativa
 [RTV Slovenija - Slovenska kronika - Obvoznica Ruše (11. maj 2022)](https://4d.rtvslo.si/arhiv/slovenska-kronika/174871727)
 
 [![RtvSlovenija-02](./pic/rtv_dnevnik_telem_small.png)](https://365.rtvslo.si/arhiv/tele-m/174872348)
-[RTV Slovenija - Tele M - Obvoznica Ruše - Začetek 1m:25s (13. maj 2022)](https://365.rtvslo.si/arhiv/tele-m/174872348)
+[RTV Slovenija - Tele M - Obvoznica Ruše (13. maj 2022)](https://365.rtvslo.si/arhiv/tele-m/174872348)
 
 
 ## Kronološko
