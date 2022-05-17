@@ -13,6 +13,9 @@ Ad Hoc Civilna Iniciativa
 [![Vecer](./pic/vecer_video_small.png)](https://youtu.be/wASHrHIMiEA)
 [Večer Online - Obvoznica Ruše (4. april 2022)](https://youtu.be/wASHrHIMiEA)
 
+[![RadioMaribor](./pic/radio_interviju_small.png)](https://www.rtvslo.si/rtv365/arhiv/174866172?s=radio)
+[Radio Maribor - Radijska tribuna (20. april 2022)](https://www.rtvslo.si/rtv365/arhiv/174866172?s=radio)
+
 [![KanalA-01](./pic/kanal_a_svet_video_01.png)](https://www.24ur.com/novice/svet/bo-nova-obvoznica-v-rusah-tekla-cez-dvorisca-obcanov.html)
 [Kanal A - Svet - Obvoznica Ruše - Prvic (10. maj 2022)](https://www.24ur.com/novice/svet/bo-nova-obvoznica-v-rusah-tekla-cez-dvorisca-obcanov.html)
 
@@ -51,6 +54,15 @@ Ad Hoc Civilna Iniciativa
 
 ### 12. maj 2022 -- Lokalec (BKTV)
 [Ruški svetniki: Županja onemogočila izredno sejo](https://lokalec.si/novice/ruski-svetniki-zupanja-onemogocila-izredno-sejo/)
+<br/>
+<br/>
+
+
+### 12. maj 2022 -- Radio Maribor - Jutranja poročila
+[Obvoznica Ruše (začetek: 1m:25s)](https://365.rtvslo.si/arhiv/jutranja-porocila-radia-maribor/174871802)
+<br/>
+<br/>
+[![RadioMaribor](./pic/radio_jutranja_porocila_small.png)](https://365.rtvslo.si/arhiv/jutranja-porocila-radia-maribor/174871802) 
 <br/>
 <br/>
 
