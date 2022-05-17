@@ -31,7 +31,7 @@ Ad Hoc Civilna Iniciativa
 
 ## Kronološko
 
-### 13. maj 2022 -- Večer članek
+### 13. maj 2022 -- Večer - Članek
 [(FOTO) Občina Ruše: Županja Urška Repolusk od obvoznice dviga roke](https://www.vecer.com/maribor/aktualno/obcina-ruse-zupanja-urska-repolusk-od-obvoznice-dviga-roke-10282783)
 <br/>
 <br/>
@@ -76,7 +76,7 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
-### 11. maj 2022 -- Večer članek
+### 11. maj 2022 -- Večer - Članek
 [V Rušah se nadaljuje pingpong med županjo Urško Repolusk in občinskimi svetniki zaradi ruške obvoznice](https://www.vecer.com/maribor/aktualno/v-rusah-se-nadaljuje-pingpong-med-zupanjo-ursko-repolusk-in-obcinskimi-svetniki-zaradi-ruske-obvoznice-10282430)
 <br/>
 <br/>
@@ -139,7 +139,7 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
-### 27. april 2022 -- Večer članek
+### 27. april 2022 -- Večer - Članek
 [(FOTO) Politična kriza zaradi zahodne obvoznice v Rušah se zaostruje: "Nam se ni treba odločati za eno ali drugo traso, ker ..."](https://www.vecer.com/maribor/aktualno/obcina-ruse-politicna-kriza-zaradi-zahodne-obvoznice-10280560)
 <br/>
 <br/>
@@ -168,7 +168,7 @@ Ad Hoc Civilna Iniciativa
 <br/>
 <br/>
 
-### 6. april 2022 -- Večer članek
+### 6. april 2022 -- Večer - Članek
 [(VIDEO IN FOTO) Ruško obvoznico bi speljali kar po dvoriščih krajanov, ti so ogorčeni: "Smo manjvredni ljudje?"](https://www.vecer.com/maribor/aktualno/video-in-foto-rusko-obvoznico-bi-speljali-kar-po-dvoriscih-krajanov-ti-so-ogorceni-smo-manjvredni-ljudje-10277692)
 <br/>
 <br/>
