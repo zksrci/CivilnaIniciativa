@@ -13,12 +13,38 @@ Ad Hoc Civilna Iniciativa
 [![Vecer](./pic/vecer_video_small.png)](https://youtu.be/wASHrHIMiEA)
 [Večer Online - Obvoznica Ruše (4. april 2022)](https://youtu.be/wASHrHIMiEA)
 
+[![KanalA-01](./pic/kanal_a_svet_video_01.png)](https://www.24ur.com/novice/svet/bo-nova-obvoznica-v-rusah-tekla-cez-dvorisca-obcanov.html)
+[Kanal A - Svet - Obvoznica Ruše - Prvic (10. maj 2022)](https://www.24ur.com/novice/svet/bo-nova-obvoznica-v-rusah-tekla-cez-dvorisca-obcanov.html)
+
+[![KanalA-02](./pic/kanal_a_svet_video_02.png)](https://www.24ur.com/novice/svet/s.html)
+[Kanal A - Svet - Obvoznica Ruše - Drugič (11. maj 2022)](https://www.24ur.com/novice/svet/s.html)
+
+[![RtvSlovenija-01](./pic/rtv_dnevnik_small.png)](https://4d.rtvslo.si/arhiv/slovenska-kronika/174871727)
+[RTV Slovenija - Slovenska kronika - Obvoznica Ruše (11. maj 2022)](https://4d.rtvslo.si/arhiv/slovenska-kronika/174871727)
+
+[![RtvSlovenija-02](./pic/rtv_dnevnik_telem_small.png)](https://365.rtvslo.si/arhiv/tele-m/174872348)
+[RTV Slovenija - Tele M - Obvoznica Ruše (13. maj 2022)](https://365.rtvslo.si/arhiv/tele-m/174872348)
+
+
 ## Kronološko
 
 ### 13. maj 2022 -- Večer članek
 [(FOTO) Občina Ruše: Županja Urška Repolusk od obvoznice dviga roke](https://www.vecer.com/maribor/aktualno/obcina-ruse-zupanja-urska-repolusk-od-obvoznice-dviga-roke-10282783)
 <br/>
 <br/>
+
+
+### 13. maj 2022 -- RTV Slovenija - Tele M  
+[Bodo Rušani izgubili obvoznico?](https://365.rtvslo.si/arhiv/tele-m/174872348)
+<br/>
+<br/>
+[![RTV Slovenija TeleM](./pic/rtv_dnevnik_telem_small.png)](https://365.rtvslo.si/arhiv/tele-m/174872348) 
+<br/>
+<br/>
+
+
+
+https://365.rtvslo.si/arhiv/tele-m/174872348
 
 
 ### 12. maj 2022 -- Lokalec (BKTV)
