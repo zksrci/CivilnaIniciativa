@@ -20,7 +20,6 @@ izkrivljanje resnice.
 <center>
 <b>Na vsak tak enostranski zapis v medijih se bomo odzvali!</b>
 </center>
-<br/>
 
 V prispevku namreč za edinega krivca, da center Ruš še 
 ni razbremenjen prometa krivijo svetnike, ker so februarja 
@@ -55,9 +54,11 @@ Jasmina Vrečko Rupnik, Gregor Vrečko
 
 <br/>
 	
-![Kazalo](./pic/2022-05-12-StaraTrasa.jpg)
+![Kazalo](./pic/2022-10-03-ParkIgrisceViadukt.jpg)
 
-**Slika**: Obstoječa - 30 let stara trasa zahodnega dela obvoznice Ruše
+**Slika**: Park z otroškim igriščem na Smolniku in krožišče, kjer 
+           bi se prestavljena obvoznica pričela. Novo večnamensko
+           igrišče na Smolniku.
 
 <br/>
 	
