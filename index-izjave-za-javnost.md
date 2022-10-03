@@ -9,6 +9,16 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
+### Izjava za javnost (17) - 3. oktober 2022
+[Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md) 
+<br/>
+<br/>
+![PDF](./pic/pdf16.png)
+[2022-10-03-IzjavaZaJavnost.pdf](./pdf/2022-10-03-IzjavaZaJavnost.pdf)
+<br/>
+<br/>
+
+
 ### Izjava za javnost (16) - 12. maj 2022
 [Biti ali ne biti? To je zdaj vprašanje!](./2022-05-12-IzjavaZaJavnost.md) 
 <br/>
