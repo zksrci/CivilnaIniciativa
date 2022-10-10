@@ -24,6 +24,9 @@ Ad Hoc Civilna Iniciativa
 [Kronologija prestavitve obvoznice](./index-kronologija.md)
 
 
+[![YouTube](./pic/yt_logo_rgb_light.png)](https://www.youtube.com/channel/UCzbhPLXfnbyppRB6SSwscTA)
+
+
 <br/>
 
 ![Igrisce](./pic/2022-04-04-ParkIgrisceViadukt-light.jpg)
