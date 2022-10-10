@@ -31,6 +31,12 @@ Ad Hoc Civilna Iniciativa
 
 ## Kronološko
 
+### 4. okt 2022 -- Lokalec (BKTV)
+[V Rušah borba Davida proti Goljatu](https://lokalec.si/novice/v-rusah-borba-davida-proti-goljatu/)
+<br/>
+<br/>
+
+
 ### 13. maj 2022 -- Večer - Članek
 [(FOTO) Občina Ruše: Županja Urška Repolusk od obvoznice dviga roke](https://www.vecer.com/maribor/aktualno/obcina-ruse-zupanja-urska-repolusk-od-obvoznice-dviga-roke-10282783)
 <br/>
