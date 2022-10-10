@@ -23,9 +23,10 @@ Ad Hoc Civilna Iniciativa
 
 [Kronologija prestavitve obvoznice](./index-kronologija.md)
 
+<br/>
 
-[![YouTube](./pic/yt_logo_rgb_light.png)](https://www.youtube.com/channel/UCzbhPLXfnbyppRB6SSwscTA)
-
+[![YouTube](./pic/youtube_social_icon_red.png)](https://www.youtube.com/channel/UCzbhPLXfnbyppRB6SSwscTA)
+[YouTube](https://www.youtube.com/channel/UCzbhPLXfnbyppRB6SSwscTA)
 
 <br/>
 
