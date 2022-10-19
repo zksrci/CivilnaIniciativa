@@ -24,7 +24,7 @@ hkrati s tem dokumentom. Peticija za podpisovanje se nahaja na sledeči povezavi
 1.  Peticijo se lahko podpiše v soboto pred trgovino Spar med 9. uro in 17. uro.
 1.  Načrtujemo še podpisovanje v Bistrici. Lokacijo in termine dopišemo.
 1.	Peticijo si lahko natisne vsak posameznik in nam jo podpisano prinese na lokacije zbiranja podpisov.
-1.  Vsi, ki me poznate mi lahko podpisano peticijo izročite tudi osebno.
+1.  Vsi, ki me poznate, mi lahko podpisano peticijo izročite tudi osebno.
 
 ## Prosimo, da peticijo natisnete in jo <b>podpišete v družinskem krogu</b>.
 
