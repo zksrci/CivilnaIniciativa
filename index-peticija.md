@@ -11,22 +11,23 @@ Ad Hoc Civilna Iniciativa
 
 Spoštovani sokrajani in soobčani!
 Pripravili smo tekst peticije, ki vsebuje polja za podpise. Objavili smo ga 
-hkrati s tem dokumentom in se nahaja na tej povezavi:
+hkrati s tem dokumentom in se nahaja na sledeči povezavi:
 
 ![PDF](./pic/pdf16.png)
 [2022-10-19-PeticijaParkirisceRuse.pdf](./pdf/2022-10-19-PeticijaParkirisceRuse.pdf)
 
-Podpisovanje peticije smo si zamislili na več načinov:
+## Podpisovanje peticije smo si zamislili na več načinov:
 
-1.	Klasično se lahko peticija podpiše v četrtek, petek in soboto med 9. uro in 18. uro ob našem malem parkirišču pri lekarni in pošti.
-2.	Peticijo si lahko natisne vsak posameznik in nam jo podpisano prinese na lokacijo parkirišča ob lekarni in pošti.
-3.	Peticijo si lahko natisne vsak posameznik in nam jo podpisano pošlje po pošti ali kar vržete v nabiralnik na naslov:
-
-Jasmina Vrečko Rupnik <br/>
-Gozdarska ulica 2     <br/>
-2342 Ruše
+1.	Peticija se lahko podpiše v četrtek in petek med 9. uro in 18. uro ob našem malem parkirišču pri lekarni in pošti.
+1.  Peticijo se lahko podpiše v soboto med 9. uro in 13. uro ob našem malem parkirišču pri lekarni in pošti.
+1.  Peticijo se lahko podpiše v soboto pred trgovino Spar med 9. uro in 17. uro.
+1.  Načrtujemo še podpisovanje v Bistrici. Lokacijo in termine dopišemo.
+1.	Peticijo si lahko natisne vsak posameznik in nam jo podpisano prinese na lokacije zbiranja podpisov.
+1.  Vsi, ki me poznate mi lahko podpisano peticijo izročite tudi osebno.
 
 ## Prosimo, da peticijo natisnete in jo <b>podpišete v družinskem krogu</b>.
+
+## Prosimo, da peticijo <b>ponudite v podpis vašim sorodnikom</b>.
 
 ## Prosimo, da peticijo <b>ponudite v podpis vašim sosedom</b>.
 
