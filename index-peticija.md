@@ -3,7 +3,7 @@ Zaskrbljeni krajani Smolnika in Ruš
 <br/>
 Ad Hoc Civilna Iniciativa 
 
-[Prva stran](index.md)
+
 
 # Spremna beseda - Peticija za naše malo parkirišče!
 <br/>
@@ -39,7 +39,7 @@ hkrati s tem dokumentom in se nahaja na sledeči povezavi:
 Ruše, 19. oktober 2022 <br/><br/>
 V imenu civilne iniciative<br/> 
 Jasmina Vrečko Rupnik, Gregor Vrečko
-<br/>
+<br/><br/>
 
 
 ![Kazalo](./pic/slika_peticija_2.jpg)
@@ -47,7 +47,6 @@ Jasmina Vrečko Rupnik, Gregor Vrečko
 **Slika**: Sončni vzhod v Rušah.
 
 
-[Prva stran](index.md)
 <br/>
 <br/>
 
