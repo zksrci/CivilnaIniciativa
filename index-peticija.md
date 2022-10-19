@@ -14,7 +14,8 @@ Pripravili smo tekst peticije, ki vsebuje polja za podpise. Objavili smo ga
 hkrati s tem dokumentom. Peticija za podpisovanje se nahaja na sledeči povezavi:
 
 [Peticija](./pdf/2022-10-19-PeticijaParkirisceRuse.pdf)
-![PDF](./pic/pdf16.png)
+<br/>
+<br/>
 [2022-10-19-PeticijaParkirisceRuse.pdf](./pdf/2022-10-19-PeticijaParkirisceRuse.pdf)
 
 ## Podpisovanje peticije smo si zamislili na več načinov:
