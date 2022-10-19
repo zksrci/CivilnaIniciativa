@@ -2,17 +2,17 @@
 Zaskrbljeni krajani Smolnika in Ruš
 <br/>
 Ad Hoc Civilna Iniciativa 
-
-
-
-# Spremna beseda - Peticija za naše malo parkirišče!
 <br/>
+
+
+# Obvestilo - Zbiranje podpisov pod peticijo!
 
 
 Spoštovani sokrajani in soobčani!
 Pripravili smo tekst peticije, ki vsebuje polja za podpise. Objavili smo ga 
 hkrati s tem dokumentom in se nahaja na sledeči povezavi:
 
+[Peticija](./pdf/2022-10-19-PeticijaParkirisceRuse.pdf)
 ![PDF](./pic/pdf16.png)
 [2022-10-19-PeticijaParkirisceRuse.pdf](./pdf/2022-10-19-PeticijaParkirisceRuse.pdf)
 
