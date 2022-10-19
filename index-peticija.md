@@ -1,5 +1,5 @@
-Obvestilo - Zbiranje podpisov pod peticijo!
-<br/>
+### Obvestilo - Zbiranje podpisov pod peticijo!
+
 Zaskrbljeni krajani Smolnika in Ruš
 <br/>
 Ad Hoc Civilna Iniciativa 
