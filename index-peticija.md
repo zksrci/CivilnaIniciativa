@@ -9,6 +9,7 @@ Ad Hoc Civilna Iniciativa
 
 
 Spoštovani sokrajani in soobčani!
+
 Pripravili smo tekst peticije, ki vsebuje polja za podpise. Objavili smo ga 
 hkrati s tem dokumentom in se nahaja na sledeči povezavi:
 
