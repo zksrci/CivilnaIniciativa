@@ -33,7 +33,7 @@ hkrati s tem dokumentom. Peticija za podpisovanje se nahaja na sledeči povezavi
 1. Bistrica ob Dravi - pri trgovini Jager med 9.00 in 12.30 uro
 1. Bistrica ob Dravi - Gostišče stari Koper
 
-### Sobota- 22. oktober 2022
+### Sobota - 22. oktober 2022
 
 1. Ruše - Peticija se lahko podpiše med 9. uro in 13. uro ob našem malem parkirišču pri lekarni in pošti.
 1. Ruše - Peticijo se lahko podpiše v soboto pred trgovino Spar med 9. uro in 17. uro.
