@@ -20,10 +20,26 @@ hkrati s tem dokumentom. Peticija za podpisovanje se nahaja na sledeči povezavi
 
 ## Podpisovanje peticije smo si zamislili na več načinov:
 
-1.	Peticija se lahko podpiše v četrtek in petek med 9. uro in 18. uro ob našem malem parkirišču pri lekarni in pošti.
-1.  Peticijo se lahko podpiše v soboto med 9. uro in 13. uro ob našem malem parkirišču pri lekarni in pošti.
-1.  Peticijo se lahko podpiše v soboto pred trgovino Spar med 9. uro in 17. uro.
-1.  Načrtujemo še podpisovanje v Bistrici. Lokacijo in termine dopišemo.
+### Četrtek - 20. oktober 2022
+
+1. Ruše - Peticija se lahko podpiše med 9. uro in 18. uro ob našem malem parkirišču pri lekarni in pošti.
+
+### Petek - 21. oktober 2022
+
+1. Ruše - Peticija se lahko podpiše med 9. uro in 18. uro ob našem malem parkirišču pri lekarni in pošti.
+1. Ruše - Green cafe
+1. Ruše - Črni labod
+1. Ruše - Tomi bar
+1. Bistrica ob Dravi - pri trgovini Jager med 9.00 in 12.30 uro
+1. Bistrica ob Dravi - Gostišče stari Koper
+
+### Sobota- 22. oktober 2022
+
+1. Ruše - Peticija se lahko podpiše med 9. uro in 13. uro ob našem malem parkirišču pri lekarni in pošti.
+1. Ruše - Peticijo se lahko podpiše v soboto pred trgovino Spar med 9. uro in 17. uro.
+
+### Ostalo
+
 1.	Peticijo si lahko natisne vsak posameznik in nam jo podpisano prinese na lokacije zbiranja podpisov.
 1.  Vsi, ki me poznate, mi lahko podpisano peticijo izročite tudi osebno.
 
@@ -32,6 +48,8 @@ hkrati s tem dokumentom. Peticija za podpisovanje se nahaja na sledeči povezavi
 ## Prosimo, da peticijo <b>ponudite v podpis vašim sorodnikom</b>.
 
 ## Prosimo, da peticijo <b>ponudite v podpis vašim sosedom</b>.
+
+## Prosimo, da peticijo <b>ponudite v podpis vašim sodelavcem</b>.
 
 ## Prosimo, da peticijo <b>ponudite v podpis po vaši ulici</b>.
 
