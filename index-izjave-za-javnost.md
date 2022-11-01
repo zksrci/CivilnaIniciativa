@@ -9,6 +9,96 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
+### Parkirišče - Parkirišče ne bo prodano (26) - 27. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-27-Parkirisce-ParkirisceNeBoProdano.pdf](./pdf/2022-10-27-Parkirisce-ParkirisceNeBoProdano.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Uradna predaja notarskega zapisnika Občini Ruše (25) - 25. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-25-Parkirisce-UradnaPredajaNotarskegaZapisaObciniRuse.pdf](./pdf/2022-10-25-Parkirisce-UradnaPredajaNotarskegaZapisaObciniRuse.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Število podpisov pod Peticijo (24) - 24. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-24-Parkirisce-SteviloPodpisovPodPeticijo.pdf](./pdf/2022-10-24-Parkirisce-SteviloPodpisovPodPeticijo.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Poziv svetnikom (23) - 23. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-23-Parkirisce-PozivSvetnikom.pdf](./pdf/2022-10-23-Parkirisce-PozivSvetnikom.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Najava objave števila podpisov pod Peticijo (22) - 19. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-23-Parkirisce-NajavaObjaveStevilaPodpisovPodPeticijo.pdf](./pdf/2022-10-23-Parkirisce-NajavaObjaveStevilaPodpisovPodPeticijo.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Peticija (21) - 19. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-19-PeticijaParkirisceRuse.pdf](./pdf/2022-10-19-PeticijaParkirisceRuse.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Peticija namesto Ljudske iniciative (20) - 18. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-18-Parkirisce-PeticijaNamestoLjudskeIniciative.pdf](./pdf/2022-10-18-Parkirisce-PeticijaNamestoLjudskeIniciative.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Javni poziv (19) - 17. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-17-Parkirisce-JavniPoziv.pdf](./pdf/2022-10-17-Parkirisce-JavniPoziv.pdf)
+<br/>
+<br/>
+
+
+### Parkirišče - Odprto Pismo - Apel (18) - 16. oktober 2022
+<!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
+<!-- <br/> -->
+<!-- <br/> -->
+![PDF](./pic/pdf16.png)
+[2022-10-16-Parkirisce-OdprtoPismo-Apel-Parking.pdf](./pdf/2022-10-16-Parkirisce-OdprtoPismo-Apel-Parking.pdf)
+<br/>
+<br/>
+
+
 ### Izjava za javnost (17) - 3. oktober 2022
 [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md) 
 <br/>
