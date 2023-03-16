@@ -9,6 +9,26 @@ Ad Hoc Civilna Iniciativa
 <br/>
 
 
+### Razmišljanje (28) - 15. marec 2023
+[Legoland](./2023-03-15-LegoLand.md)
+<br/>
+<br/>
+![PDF](./pic/pdf16.png)
+[2023-03-15-LegoLand.pdf](./pdf/2023-03-15-LegoLand.pdf)
+<br/>
+<br/>
+
+
+### Izjava za javnost (27) - 12. marec 2023
+[Avtobusno obračališče ali kako po bližnjici do prestavljene trase zahodnega dela obvoznice Ruše?](./2023-03-12-IzjavaZaJavnost.md)
+<br/>
+<br/>
+![PDF](./pic/pdf16.png)
+[2023-03-12-IzjavaZaJavnost.pdf](./pdf/2023-03-12-IzjavaZaJavnost.pdf)
+<br/>
+<br/>
+
+
 ### Parkirišče - Parkirišče ne bo prodano (26) - 27. oktober 2022
 <!-- [Zatišje pred neurjem!](./2022-10-03-IzjavaZaJavnost.md)   -->
 <!-- <br/> -->
