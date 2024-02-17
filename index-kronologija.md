@@ -425,7 +425,7 @@ zapisana minimalna količina prometa za povezovalno cesto (obvoznico):
 
 ## 2024
 
-### 15. februar 2024 - Končno poročilo o nadzoru - Nadzornega odbora Občine Ruše
+### 15. februar 2024 - Končno poročilo o nadzoru; Nadzornega odbora Občine Ruše
 
 Občina Ruše je med gradivi za sejo Občinskega sveta objavila končno poročilo Nadzornega odbora.
 Končno poročilo obravnava tudi obvoznico. Nadzor nad projektom obvoznica je v gradivu podrobneje predstavljen od strani 46 do strani 61.
