@@ -12,7 +12,8 @@ Končno poročilo je dosegljivo na sledeči povezavi:
 [Končno poročilo Nadzornega odbora](./pdf3/2024-02-17-T8_Nadzorni_odbor_2023-177-241.pdf)
 
 <br/>
-17. februar 2024 <br/><br/>
+17. februar 2024 
+<br/><br/>
 <br/>
 
 ![Kazalo](./pic/2024-02-17-Zeleznica-02.png)
