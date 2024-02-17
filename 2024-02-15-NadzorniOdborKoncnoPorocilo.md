@@ -1,5 +1,4 @@
-#### Zaskrbljeni krajani Smolnika in Ruš
-#### Ad Hoc Civilna Iniciativa
+![Kazalo](./pic/2024-02-17-Zeleznica-02.png)
 
 #  Končno poročilo o nadzoru; Nadzornega odbora Občine Ruše
 
@@ -13,10 +12,11 @@ Končno poročilo je dosegljivo na sledeči povezavi:
 
 <br/>
 17. februar 2024 
-<br/><br/>
+<br/>
 <br/>
 
-![Kazalo](./pic/2024-02-17-Zeleznica-02.png)
+#### Zaskrbljeni krajani Smolnika in Ruš
+#### Ad Hoc Civilna Iniciativa
 
 <br/>
 <br/>
