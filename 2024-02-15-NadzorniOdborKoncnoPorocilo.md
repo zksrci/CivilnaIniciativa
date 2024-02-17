@@ -14,7 +14,12 @@ Končno poročilo je dosegljivo na sledeči povezavi:
 <br/><br/>
 17. februar 2024 <br/><br/>
 <br/>
-	
+
+![Kazalo](./pic/2024-02-17-Zeleznica-02.png)
+
+<br/>
+<br/>
+
 [Kazalo](index-izjave-za-javnost.md)
 
 ![GIT](./pic/status_work_green_64x64.png)                                    
